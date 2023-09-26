@@ -42,9 +42,6 @@ Every page has an AppBar and Navigation Bar to switch between pages.
 * Dart
 * Flutter
 
-## Collaborators
-Created by [Gaveesh Garg](https://github.com/Tillooo) in collaboration with [Siddharth Choudhary](https://github.com/babayaga2002)
-
 
 ## Inspiration
 This project is based on the goal making bus travel easy and convinient.
