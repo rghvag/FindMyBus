@@ -1,4 +1,4 @@
-# Find My Bus App
+# FindMyBus
 
 ## Table of contents
 * [General info](#general-info)
