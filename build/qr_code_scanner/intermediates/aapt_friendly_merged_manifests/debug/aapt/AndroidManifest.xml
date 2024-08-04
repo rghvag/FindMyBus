@@ -5,6 +5,7 @@
 
     <uses-sdk
         android:minSdkVersion="20"
+        android:targetSdkVersion="32"
         tools:overrideLibrary="com.google.zxing.client.android" />
 
 </manifest>

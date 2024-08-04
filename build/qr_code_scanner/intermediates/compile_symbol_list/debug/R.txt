@@ -103,6 +103,9 @@ int attr buttonStyle 0x0
 int attr buttonStyleSmall 0x0
 int attr buttonTint 0x0
 int attr buttonTintMode 0x0
+int attr checkMarkCompat 0x0
+int attr checkMarkTint 0x0
+int attr checkMarkTintMode 0x0
 int attr checkboxStyle 0x0
 int attr checkedTextViewStyle 0x0
 int attr clearTop 0x0
@@ -130,7 +133,6 @@ int attr contentInsetRight 0x0
 int attr contentInsetStart 0x0
 int attr contentInsetStartWithNavigation 0x0
 int attr controlBackground 0x0
-int attr coordinatorLayoutStyle 0x0
 int attr customNavigationLayout 0x0
 int attr defaultQueryHint 0x0
 int attr dialogCornerRadius 0x0
@@ -157,6 +159,7 @@ int attr editTextBackground 0x0
 int attr editTextColor 0x0
 int attr editTextStyle 0x0
 int attr elevation 0x0
+int attr emojiCompatEnabled 0x0
 int attr expandActivityOverflowButtonDrawable 0x0
 int attr finishPrimaryWithSecondary 0x0
 int attr finishSecondaryWithPrimary 0x0
@@ -188,15 +191,9 @@ int attr indeterminateProgressStyle 0x0
 int attr initialActivityCount 0x0
 int attr isLightTheme 0x0
 int attr itemPadding 0x0
-int attr keylines 0x0
+int attr lStar 0x0
 int attr lastBaselineToBottomHeight 0x0
 int attr layout 0x0
-int attr layout_anchor 0x0
-int attr layout_anchorGravity 0x0
-int attr layout_behavior 0x0
-int attr layout_dodgeInsetEdges 0x0
-int attr layout_insetEdge 0x0
-int attr layout_keyline 0x0
 int attr lineHeight 0x0
 int attr listChoiceBackgroundIndicator 0x0
 int attr listChoiceIndicatorMultipleAnimated 0x0
@@ -271,7 +268,6 @@ int attr splitRatio 0x0
 int attr splitTrack 0x0
 int attr srcCompat 0x0
 int attr state_above_anchor 0x0
-int attr statusBarBackground 0x0
 int attr subMenuArrow 0x0
 int attr submitBackground 0x0
 int attr subtitle 0x0
@@ -413,7 +409,6 @@ int color material_grey_850 0x0
 int color material_grey_900 0x0
 int color notification_action_color_filter 0x0
 int color notification_icon_bg_color 0x0
-int color notification_material_background_media_default_color 0x0
 int color primary_dark_material_dark 0x0
 int color primary_dark_material_light 0x0
 int color primary_material_dark 0x0
@@ -558,10 +553,6 @@ int dimen notification_small_icon_size_as_large 0x0
 int dimen notification_subtext_size 0x0
 int dimen notification_top_pad 0x0
 int dimen notification_top_pad_large_text 0x0
-int dimen subtitle_corner_radius 0x0
-int dimen subtitle_outline_width 0x0
-int dimen subtitle_shadow_offset 0x0
-int dimen subtitle_shadow_radius 0x0
 int dimen tooltip_corner_radius 0x0
 int dimen tooltip_horizontal_padding 0x0
 int dimen tooltip_margin 0x0
@@ -669,6 +660,7 @@ int drawable notification_template_icon_bg 0x0
 int drawable notification_template_icon_low_bg 0x0
 int drawable notification_tile_bg 0x0
 int drawable notify_panel_notification_icon_bg 0x0
+int drawable test_level_drawable 0x0
 int drawable tooltip_frame_dark 0x0
 int drawable tooltip_frame_light 0x0
 int id accessibility_action_clickable_span 0x0
@@ -704,7 +696,6 @@ int id accessibility_custom_action_6 0x0
 int id accessibility_custom_action_7 0x0
 int id accessibility_custom_action_8 0x0
 int id accessibility_custom_action_9 0x0
-int id action0 0x0
 int id action_bar 0x0
 int id action_bar_activity_content 0x0
 int id action_bar_container 0x0
@@ -729,9 +720,7 @@ int id alertTitle 0x0
 int id androidx_window_activity_scope 0x0
 int id async 0x0
 int id blocking 0x0
-int id bottom 0x0
 int id buttonPanel 0x0
-int id cancel_action 0x0
 int id centerCrop 0x0
 int id checkbox 0x0
 int id checked 0x0
@@ -744,8 +733,6 @@ int id decor_content_parent 0x0
 int id default_activity_button 0x0
 int id dialog_button 0x0
 int id edit_query 0x0
-int id end 0x0
-int id end_padder 0x0
 int id expand_activities_button 0x0
 int id expanded_menu 0x0
 int id fitCenter 0x0
@@ -759,14 +746,16 @@ int id icon_group 0x0
 int id image 0x0
 int id info 0x0
 int id italic 0x0
-int id left 0x0
+int id item1 0x0
+int id item2 0x0
+int id item3 0x0
+int id item4 0x0
 int id line1 0x0
 int id line3 0x0
 int id listMode 0x0
 int id list_item 0x0
 int id locale 0x0
 int id ltr 0x0
-int id media_actions 0x0
 int id message 0x0
 int id multiply 0x0
 int id none 0x0
@@ -780,7 +769,6 @@ int id parentPanel 0x0
 int id progress_circular 0x0
 int id progress_horizontal 0x0
 int id radio 0x0
-int id right 0x0
 int id right_icon 0x0
 int id right_side 0x0
 int id rtl 0x0
@@ -806,8 +794,6 @@ int id split_action_bar 0x0
 int id src_atop 0x0
 int id src_in 0x0
 int id src_over 0x0
-int id start 0x0
-int id status_bar_latest_event_content 0x0
 int id submenuarrow 0x0
 int id submit_area 0x0
 int id tabMode 0x0
@@ -832,7 +818,6 @@ int id time 0x0
 int id title 0x0
 int id titleDividerNoCustom 0x0
 int id title_template 0x0
-int id top 0x0
 int id topPanel 0x0
 int id unchecked 0x0
 int id uniform 0x0
@@ -898,17 +883,8 @@ int layout abc_tooltip 0x0
 int layout custom_dialog 0x0
 int layout notification_action 0x0
 int layout notification_action_tombstone 0x0
-int layout notification_media_action 0x0
-int layout notification_media_cancel_action 0x0
-int layout notification_template_big_media 0x0
-int layout notification_template_big_media_custom 0x0
-int layout notification_template_big_media_narrow 0x0
-int layout notification_template_big_media_narrow_custom 0x0
 int layout notification_template_custom_big 0x0
 int layout notification_template_icon_group 0x0
-int layout notification_template_lines_media 0x0
-int layout notification_template_media 0x0
-int layout notification_template_media_custom 0x0
 int layout notification_template_part_chronometer 0x0
 int layout notification_template_part_time 0x0
 int layout select_dialog_item_material 0x0
@@ -917,6 +893,8 @@ int layout select_dialog_singlechoice_material 0x0
 int layout support_simple_spinner_dropdown_item 0x0
 int layout zxing_barcode_scanner 0x0
 int layout zxing_capture 0x0
+int menu example_menu 0x0
+int menu example_menu2 0x0
 int raw zxing_beep 0x0
 int string abc_action_bar_home_description 0x0
 int string abc_action_bar_up_description 0x0
@@ -1200,14 +1178,9 @@ int style TextAppearance_AppCompat_Widget_Switch 0x0
 int style TextAppearance_AppCompat_Widget_TextView_SpinnerItem 0x0
 int style TextAppearance_Compat_Notification 0x0
 int style TextAppearance_Compat_Notification_Info 0x0
-int style TextAppearance_Compat_Notification_Info_Media 0x0
 int style TextAppearance_Compat_Notification_Line2 0x0
-int style TextAppearance_Compat_Notification_Line2_Media 0x0
-int style TextAppearance_Compat_Notification_Media 0x0
 int style TextAppearance_Compat_Notification_Time 0x0
-int style TextAppearance_Compat_Notification_Time_Media 0x0
 int style TextAppearance_Compat_Notification_Title 0x0
-int style TextAppearance_Compat_Notification_Title_Media 0x0
 int style TextAppearance_Widget_AppCompat_ExpandedMenu_Item 0x0
 int style TextAppearance_Widget_AppCompat_Toolbar_Subtitle 0x0
 int style TextAppearance_Widget_AppCompat_Toolbar_Title 0x0
@@ -1317,7 +1290,6 @@ int style Widget_AppCompat_Toolbar 0x0
 int style Widget_AppCompat_Toolbar_Button_Navigation 0x0
 int style Widget_Compat_NotificationActionContainer 0x0
 int style Widget_Compat_NotificationActionText 0x0
-int style Widget_Support_CoordinatorLayout 0x0
 int style zxing_CaptureTheme 0x0
 int[] styleable ActionBar { 0x0, 0x0, 0x0, 0x0, 0x0, 0x0, 0x0, 0x0, 0x0, 0x0, 0x0, 0x0, 0x0, 0x0, 0x0, 0x0, 0x0, 0x0, 0x0, 0x0, 0x0, 0x0, 0x0, 0x0, 0x0, 0x0, 0x0, 0x0, 0x0 }
 int styleable ActionBar_background 0
@@ -1393,6 +1365,7 @@ int styleable AnimatedStateListDrawableTransition_android_drawable 0
 int styleable AnimatedStateListDrawableTransition_android_fromId 1
 int styleable AnimatedStateListDrawableTransition_android_reversible 2
 int styleable AnimatedStateListDrawableTransition_android_toId 3
+int[] styleable AppCompatEmojiHelper {  }
 int[] styleable AppCompatImageView { 0x1010119, 0x0, 0x0, 0x0 }
 int styleable AppCompatImageView_android_src 0
 int styleable AppCompatImageView_srcCompat 1
@@ -1411,7 +1384,7 @@ int styleable AppCompatTextHelper_android_drawableRight 3
 int styleable AppCompatTextHelper_android_drawableStart 4
 int styleable AppCompatTextHelper_android_drawableTop 5
 int styleable AppCompatTextHelper_android_textAppearance 6
-int[] styleable AppCompatTextView { 0x1010034, 0x0, 0x0, 0x0, 0x0, 0x0, 0x0, 0x0, 0x0, 0x0, 0x0, 0x0, 0x0, 0x0, 0x0, 0x0, 0x0, 0x0, 0x0, 0x0, 0x0 }
+int[] styleable AppCompatTextView { 0x1010034, 0x0, 0x0, 0x0, 0x0, 0x0, 0x0, 0x0, 0x0, 0x0, 0x0, 0x0, 0x0, 0x0, 0x0, 0x0, 0x0, 0x0, 0x0, 0x0, 0x0, 0x0 }
 int styleable AppCompatTextView_android_textAppearance 0
 int styleable AppCompatTextView_autoSizeMaxTextSize 1
 int styleable AppCompatTextView_autoSizeMinTextSize 2
@@ -1426,13 +1399,14 @@ int styleable AppCompatTextView_drawableStartCompat 10
 int styleable AppCompatTextView_drawableTint 11
 int styleable AppCompatTextView_drawableTintMode 12
 int styleable AppCompatTextView_drawableTopCompat 13
-int styleable AppCompatTextView_firstBaselineToTopHeight 14
-int styleable AppCompatTextView_fontFamily 15
-int styleable AppCompatTextView_fontVariationSettings 16
-int styleable AppCompatTextView_lastBaselineToBottomHeight 17
-int styleable AppCompatTextView_lineHeight 18
-int styleable AppCompatTextView_textAllCaps 19
-int styleable AppCompatTextView_textLocale 20
+int styleable AppCompatTextView_emojiCompatEnabled 14
+int styleable AppCompatTextView_firstBaselineToTopHeight 15
+int styleable AppCompatTextView_fontFamily 16
+int styleable AppCompatTextView_fontVariationSettings 17
+int styleable AppCompatTextView_lastBaselineToBottomHeight 18
+int styleable AppCompatTextView_lineHeight 19
+int styleable AppCompatTextView_textAllCaps 20
+int styleable AppCompatTextView_textLocale 21
 int[] styleable AppCompatTheme { 0x0, 0x0, 0x0, 0x0, 0x0, 0x0, 0x0, 0x0, 0x0, 0x0, 0x0, 0x0, 0x0, 0x0, 0x0, 0x0, 0x0, 0x0, 0x0, 0x0, 0x0, 0x0, 0x0, 0x0, 0x0, 0x0, 0x0, 0x0, 0x0, 0x0, 0x0, 0x0, 0x0, 0x0, 0x0, 0x0, 0x0, 0x10100ae, 0x1010057, 0x0, 0x0, 0x0, 0x0, 0x0, 0x0, 0x0, 0x0, 0x0, 0x0, 0x0, 0x0, 0x0, 0x0, 0x0, 0x0, 0x0, 0x0, 0x0, 0x0, 0x0, 0x0, 0x0, 0x0, 0x0, 0x0, 0x0, 0x0, 0x0, 0x0, 0x0, 0x0, 0x0, 0x0, 0x0, 0x0, 0x0, 0x0, 0x0, 0x0, 0x0, 0x0, 0x0, 0x0, 0x0, 0x0, 0x0, 0x0, 0x0, 0x0, 0x0, 0x0, 0x0, 0x0, 0x0, 0x0, 0x0, 0x0, 0x0, 0x0, 0x0, 0x0, 0x0, 0x0, 0x0, 0x0, 0x0, 0x0, 0x0, 0x0, 0x0, 0x0, 0x0, 0x0, 0x0, 0x0, 0x0, 0x0, 0x0, 0x0, 0x0, 0x0, 0x0, 0x0, 0x0, 0x0, 0x0, 0x0 }
 int styleable AppCompatTheme_actionBarDivider 0
 int styleable AppCompatTheme_actionBarItemBackground 1
@@ -1566,26 +1540,22 @@ int styleable ButtonBarLayout_allowStacking 0
 int[] styleable Capability { 0x0, 0x0 }
 int styleable Capability_queryPatterns 0
 int styleable Capability_shortcutMatchRequired 1
-int[] styleable ColorStateListItem { 0x0, 0x101031f, 0x10101a5 }
+int[] styleable CheckedTextView { 0x1010108, 0x0, 0x0, 0x0 }
+int styleable CheckedTextView_android_checkMark 0
+int styleable CheckedTextView_checkMarkCompat 1
+int styleable CheckedTextView_checkMarkTint 2
+int styleable CheckedTextView_checkMarkTintMode 3
+int[] styleable ColorStateListItem { 0x0, 0x101031f, 0x10101a5, 0x1010647, 0x0 }
 int styleable ColorStateListItem_alpha 0
 int styleable ColorStateListItem_android_alpha 1
 int styleable ColorStateListItem_android_color 2
+int styleable ColorStateListItem_android_lStar 3
+int styleable ColorStateListItem_lStar 4
 int[] styleable CompoundButton { 0x1010107, 0x0, 0x0, 0x0 }
 int styleable CompoundButton_android_button 0
 int styleable CompoundButton_buttonCompat 1
 int styleable CompoundButton_buttonTint 2
 int styleable CompoundButton_buttonTintMode 3
-int[] styleable CoordinatorLayout { 0x0, 0x0 }
-int styleable CoordinatorLayout_keylines 0
-int styleable CoordinatorLayout_statusBarBackground 1
-int[] styleable CoordinatorLayout_Layout { 0x10100b3, 0x0, 0x0, 0x0, 0x0, 0x0, 0x0 }
-int styleable CoordinatorLayout_Layout_android_layout_gravity 0
-int styleable CoordinatorLayout_Layout_layout_anchor 1
-int styleable CoordinatorLayout_Layout_layout_anchorGravity 2
-int styleable CoordinatorLayout_Layout_layout_behavior 3
-int styleable CoordinatorLayout_Layout_layout_dodgeInsetEdges 4
-int styleable CoordinatorLayout_Layout_layout_insetEdge 5
-int styleable CoordinatorLayout_Layout_layout_keyline 6
 int[] styleable DrawerArrowToggle { 0x0, 0x0, 0x0, 0x0, 0x0, 0x0, 0x0, 0x0 }
 int styleable DrawerArrowToggle_arrowHeadLength 0
 int styleable DrawerArrowToggle_arrowShaftLength 1

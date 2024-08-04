@@ -1,7 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:firebase_auth/firebase_auth.dart';
-import 'package:find_my_bus/welcomePage.dart';
-import 'constants.dart';
+import 'constant/constants.dart';
 
 class MyHeader extends StatefulWidget {
   dynamic image;

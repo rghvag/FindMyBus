@@ -17,7 +17,7 @@ class _QrState extends State<Qr> {
       ),
       body: Center(
         child: Container(
-          child: QrImage(
+          child: QrImageView(
             data: widget.uid,
             version: QrVersions.auto,
             size: 320,

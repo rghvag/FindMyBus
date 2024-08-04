@@ -47,10 +47,6 @@ https://youtu.be/gBsRnX6NDv0
 * Dart
 * Flutter
 
-## Collaborators
-Created by [Siddharth Choudhary](https://github.com/babayaga2002) in collaboration with [Samayk Jain](https://github.com/samyakjain26)
-
-
 ## Inspiration
 This project is based on the goal making bus travel easy and convinient.
 
