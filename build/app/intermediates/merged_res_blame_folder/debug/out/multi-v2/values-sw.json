@@ -1,25 +1,8 @@
 {
     "logs": [
         {
-            "outputFile": "com.justhackit.find_my_bus.app-mergeDebugResources-33:/values-sw/values-sw.xml",
+            "outputFile": "com.justhackit.find_my_bus.app-mergeDebugResources-37:/values-sw/values-sw.xml",
             "map": [
-                {
-                    "source": "C:\\Users\\walra\\.gradle\\caches\\transforms-3\\e90d407703989166ff4bf77dd64d09ed\\transformed\\core-1.10.1\\res\\values-sw\\values-sw.xml",
-                    "from": {
-                        "startLines": "2,3,4,5,6,7,8,9",
-                        "startColumns": "4,4,4,4,4,4,4,4",
-                        "startOffsets": "55,149,251,348,449,556,663,778",
-                        "endColumns": "93,101,96,100,106,106,114,100",
-                        "endOffsets": "144,246,343,444,551,658,773,874"
-                    },
-                    "to": {
-                        "startLines": "29,30,31,32,33,34,35,59",
-                        "startColumns": "4,4,4,4,4,4,4,4",
-                        "startOffsets": "2801,2895,2997,3094,3195,3302,3409,6303",
-                        "endColumns": "93,101,96,100,106,106,114,100",
-                        "endOffsets": "2890,2992,3089,3190,3297,3404,3519,6399"
-                    }
-                },
                 {
                     "source": "C:\\Users\\walra\\.gradle\\caches\\transforms-3\\c829784a2102bc2d6e73199ca0daea04\\transformed\\appcompat-1.4.2\\res\\values-sw\\values-sw.xml",
                     "from": {
@@ -52,6 +35,23 @@
                         "startOffsets": "3524,3628,3784,3909,4018,4181,4306,4425,4685,4850,4956,5110,5237,5387,5546,5614,5689",
                         "endColumns": "103,155,124,108,162,124,118,113,164,105,153,126,149,158,67,74,95",
                         "endOffsets": "3623,3779,3904,4013,4176,4301,4420,4534,4845,4951,5105,5232,5382,5541,5609,5684,5780"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\walra\\.gradle\\caches\\transforms-3\\3d46468ffd38af5d0ba60d5fe5308523\\transformed\\core-1.13.1\\res\\values-sw\\values-sw.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,149,251,348,449,556,663,778",
+                        "endColumns": "93,101,96,100,106,106,114,100",
+                        "endOffsets": "144,246,343,444,551,658,773,874"
+                    },
+                    "to": {
+                        "startLines": "29,30,31,32,33,34,35,59",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "2801,2895,2997,3094,3195,3302,3409,6303",
+                        "endColumns": "93,101,96,100,106,106,114,100",
+                        "endOffsets": "2890,2992,3089,3190,3297,3404,3519,6399"
                     }
                 },
                 {

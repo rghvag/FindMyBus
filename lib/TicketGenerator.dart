@@ -1,12 +1,12 @@
 import 'package:flutter/material.dart';
 import 'package:find_my_bus/my_header.dart';
-import 'package:cloud_firestore/cloud_firestore.dart' ;
+import 'package:cloud_firestore/cloud_firestore.dart';
 import 'package:http/http.dart' as http;
 import 'dart:convert';
 
 class ticketGeneration extends StatefulWidget {
   final String name;
-  
+
   final String email;
   final String phone;
   final String url;
@@ -35,17 +35,18 @@ class _ticketGenerationState extends State<ticketGeneration> {
   String end = '';
   int num = 0;
   bool approved = false;
-  Future<void> _showMyDialog(String name,  String end, String start) async {
+  Future<void> _showMyDialog(String name, String end, String start) async {
     return showDialog<void>(
       context: context,
-      barrierDismissible:  false ,
+      barrierDismissible: false,
       builder: (BuildContext context) {
         return AlertDialog(
           title: const Text('Add New  Group'),
           content: SingleChildScrollView(
             child: ListBody(
               children: <Widget>[
-                Text('Approve Ticket For : $name \n From :  $start \n To: $end'),
+                Text(
+                    'Approve Ticket For : $name \n From :  $start \n To: $end'),
               ],
             ),
           ),
@@ -55,8 +56,8 @@ class _ticketGenerationState extends State<ticketGeneration> {
                 TextButton(
                   child: const Text('Deny'),
                   onPressed: () {
-                    Navigator.pop(context,  false);
-                    Navigator.pop(context,  false);
+                    Navigator.pop(context, false);
+                    Navigator.pop(context, false);
                   },
                 ),
                 TextButton(
@@ -76,14 +77,14 @@ class _ticketGenerationState extends State<ticketGeneration> {
                       'start': start,
                       'busid': widget.busid,
                       'busnumber': widget.busnumber,
-                      'endlat': endlat ,
-                      'endlong': endlong ,
+                      'endlat': endlat,
+                      'endlong': endlong,
                       'startlat': startlat,
-                      'startlong':   startlong,
+                      'startlong': startlong,
                       'seatnumber': num,
                     });
                     Navigator.pop(context, true);
-                    Navigator.pop(context,  true);
+                    Navigator.pop(context, true);
                   },
                 ),
               ],
@@ -99,7 +100,7 @@ class _ticketGenerationState extends State<ticketGeneration> {
   double endlat = 0;
   double endlong = 0;
   String url = '';
-  Future<dynamic> getResponseDataStart(String  cityName) async {
+  Future<dynamic> getResponseDataStart(String cityName) async {
     url =
         'https://api.openweathermap.org/data/2.5/weather?q=$cityName&appid=ac69515796e0ac5fb9303bcef657eece';
     http.Response response = await http.get(Uri.parse(url));
@@ -121,34 +122,34 @@ class _ticketGenerationState extends State<ticketGeneration> {
     if (response.statusCode == 200) {
       var data = jsonDecode(response.body);
       setState(() {
-        endlat = data['coord']['lat']  ;
+        endlat = data['coord']['lat'];
         endlong = data['coord']['lon'];
       });
     } else {
-      return print(response.statusCode)  ;
+      return print(response.statusCode);
     }
   }
 
   @override
   void initState() {
     super.initState();
-    controller.addListener(onScroll) ;
+    controller.addListener(onScroll);
   }
 
   void onScroll() {
     setState(() {
-      offset = (controller.hasClients ) ? controller.offset : 0;
+      offset = (controller.hasClients) ? controller.offset : 0;
     });
   }
 
   @override
   void dispose() {
     controller.dispose();
-    super.dispose()  ;
+    super.dispose();
   }
 
   @override
-  Widget build(BuildContext context)   {
+  Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
         backgroundColor: Color(0xFF11249F),
@@ -163,10 +164,10 @@ class _ticketGenerationState extends State<ticketGeneration> {
               image: "images/3855345.png",
               textTop: "Hello",
               textBottom: '',
-              offset: offset ,
+              offset: offset,
             ),
             Padding(
-              padding: EdgeInsets.symmetric(horizontal: 20) ,
+              padding: EdgeInsets.symmetric(horizontal: 20),
               child: Column(
                 crossAxisAlignment: CrossAxisAlignment.start,
                 children: <Widget>[
@@ -175,7 +176,6 @@ class _ticketGenerationState extends State<ticketGeneration> {
                       SizedBox(
                         height: 20,
                       ),
-                      
                       Center(
                         child: Stack(
                           children: [
@@ -231,7 +231,6 @@ class _ticketGenerationState extends State<ticketGeneration> {
                         children: [
                           SizedBox(
                             width: 30,
-                            
                           ),
                           Text(
                             "Email-",
@@ -254,7 +253,6 @@ class _ticketGenerationState extends State<ticketGeneration> {
                             labelText: "Source",
                             hintText: "Goregaon",
                             prefixIcon: Icon(
-                              
                               Icons.location_pin,
                             ),
                           ),
@@ -284,18 +282,16 @@ class _ticketGenerationState extends State<ticketGeneration> {
                       ),
                       SizedBox(
                         height: 20,
-                        
-                        
                       ),
                       SizedBox(
                         width: MediaQuery.of(context).size.width * 0.6,
                         height: 40,
                         child: ElevatedButton(
                           onPressed: () {
-                            _showMyDialog(widget.name,   end, start);
+                            _showMyDialog(widget.name, end, start);
                           },
                           style: ElevatedButton.styleFrom(
-                            primary: Colors.black,
+                            foregroundColor: Colors.black,
                           ),
                           child: Text(
                             "Book Ride",

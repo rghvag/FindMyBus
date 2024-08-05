@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "com.justhackit.find_my_bus.app-mergeDebugResources-33:/values-gl/values-gl.xml",
+            "outputFile": "com.justhackit.find_my_bus.app-mergeDebugResources-37:/values-gl/values-gl.xml",
             "map": [
                 {
                     "source": "C:\\Users\\walra\\.gradle\\caches\\transforms-3\\78aba7bc751d1129f94d2c6b8a401c08\\transformed\\jetified-play-services-basement-18.1.0\\res\\values-gl\\values.xml",
@@ -38,7 +38,7 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\walra\\.gradle\\caches\\transforms-3\\e90d407703989166ff4bf77dd64d09ed\\transformed\\core-1.10.1\\res\\values-gl\\values-gl.xml",
+                    "source": "C:\\Users\\walra\\.gradle\\caches\\transforms-3\\3d46468ffd38af5d0ba60d5fe5308523\\transformed\\core-1.13.1\\res\\values-gl\\values-gl.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9",
                         "startColumns": "4,4,4,4,4,4,4,4",

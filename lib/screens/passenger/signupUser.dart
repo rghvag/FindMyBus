@@ -296,10 +296,9 @@ class _SignupPageState extends State<SignupPage> {
                       } else if (e.code == 'email-already-in-use') {
                         print('The account already exists for that email.');
                       }
+                    } catch (e) {
+                      print(e);
                     }
-                    // catch (e) {
-                    //   print(e);
-                    // }
                     Navigator.pushNamed(context, LoginPage.id);
                   },
                   child: Text(
@@ -313,7 +312,6 @@ class _SignupPageState extends State<SignupPage> {
                   style: TextButton.styleFrom(
                     backgroundColor: Colours.orangyish,
                     padding: EdgeInsetsDirectional.all(12),
-                    // minimumSize: Size(120, MediaQuery.of(context).size.height),
                   ),
                 ),
               ),

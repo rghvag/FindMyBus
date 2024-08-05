@@ -1,8 +1,25 @@
 {
     "logs": [
         {
-            "outputFile": "com.justhackit.find_my_bus.app-mergeDebugResources-33:/values-af/values-af.xml",
+            "outputFile": "com.justhackit.find_my_bus.app-mergeDebugResources-37:/values-af/values-af.xml",
             "map": [
+                {
+                    "source": "C:\\Users\\walra\\.gradle\\caches\\transforms-3\\3d46468ffd38af5d0ba60d5fe5308523\\transformed\\core-1.13.1\\res\\values-af\\values-af.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,153,255,353,451,558,667,787",
+                        "endColumns": "97,101,97,97,106,108,119,100",
+                        "endOffsets": "148,250,348,446,553,662,782,883"
+                    },
+                    "to": {
+                        "startLines": "29,30,31,32,33,34,35,59",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "2777,2875,2977,3075,3173,3280,3389,6206",
+                        "endColumns": "97,101,97,97,106,108,119,100",
+                        "endOffsets": "2870,2972,3070,3168,3275,3384,3504,6302"
+                    }
+                },
                 {
                     "source": "C:\\Users\\walra\\.gradle\\caches\\transforms-3\\c829784a2102bc2d6e73199ca0daea04\\transformed\\appcompat-1.4.2\\res\\values-af\\values-af.xml",
                     "from": {
@@ -35,23 +52,6 @@
                         "startOffsets": "3509,3616,3772,3898,4008,4158,4280,4401,4646,4812,4920,5077,5204,5343,5497,5563,5626",
                         "endColumns": "106,155,125,109,149,121,120,101,165,107,156,126,138,153,65,62,78",
                         "endOffsets": "3611,3767,3893,4003,4153,4275,4396,4498,4807,4915,5072,5199,5338,5492,5558,5621,5700"
-                    }
-                },
-                {
-                    "source": "C:\\Users\\walra\\.gradle\\caches\\transforms-3\\e90d407703989166ff4bf77dd64d09ed\\transformed\\core-1.10.1\\res\\values-af\\values-af.xml",
-                    "from": {
-                        "startLines": "2,3,4,5,6,7,8,9",
-                        "startColumns": "4,4,4,4,4,4,4,4",
-                        "startOffsets": "55,153,255,353,451,558,667,787",
-                        "endColumns": "97,101,97,97,106,108,119,100",
-                        "endOffsets": "148,250,348,446,553,662,782,883"
-                    },
-                    "to": {
-                        "startLines": "29,30,31,32,33,34,35,59",
-                        "startColumns": "4,4,4,4,4,4,4,4",
-                        "startOffsets": "2777,2875,2977,3075,3173,3280,3389,6206",
-                        "endColumns": "97,101,97,97,106,108,119,100",
-                        "endOffsets": "2870,2972,3070,3168,3275,3384,3504,6302"
                     }
                 },
                 {

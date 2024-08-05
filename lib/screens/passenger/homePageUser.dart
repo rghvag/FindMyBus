@@ -44,7 +44,7 @@ class _HomePageState extends State<HomePage> {
     });
   }
 
-  String api_key = 'AIzaSyAjaN-Rfa7wRo4eW3lhUkTWy_O_WCQsnTY';
+  String api_key = 'AIzaSyD1hLbhQxerI4LY4Wn5JfO00TuLlmCrVF0';
 
   void moveToBusList() async {
     final answer = await Navigator.push(
@@ -128,10 +128,14 @@ class _HomePageState extends State<HomePage> {
       double destlong) async {
     polylinePoints = PolylinePoints();
     PolylineResult result = await polylinePoints.getRouteBetweenCoordinates(
-      api_key,
-      PointLatLng(startlat, startlong),
-      PointLatLng(destlat, destlong),
-      travelMode: TravelMode.transit,
+      googleApiKey: api_key,
+      request: PolylineRequest(
+        origin: PointLatLng(startlat, startlong),
+        destination: PointLatLng(destlat, destlong),
+        mode: TravelMode.transit,
+      ),
+      // travelMode:
+      // request: null,
     );
     print("this is my error");
 
@@ -450,12 +454,14 @@ class _HomePageState extends State<HomePage> {
                                 }
                               },
                               style: ElevatedButton.styleFrom(
-                                primary: Colors.black,
+                                foregroundColor: Colors.black,
+                                backgroundColor: Colors.blue,
                               ),
                               child: const Text(
                                 "Find Buses Near Me",
-                                style: const TextStyle(
-                                  color: Colors.white,
+                                style: TextStyle(
+                                  // backgroundColor: Colors.blue,
+                                  // color: Colors.white,
                                   fontWeight: FontWeight.bold,
                                   wordSpacing: 1.5,
                                   fontSize: 17.0,

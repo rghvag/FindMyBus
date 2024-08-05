@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "com.justhackit.find_my_bus.app-mergeDebugResources-33:/values-mk/values-mk.xml",
+            "outputFile": "com.justhackit.find_my_bus.app-mergeDebugResources-37:/values-mk/values-mk.xml",
             "map": [
                 {
                     "source": "C:\\Users\\walra\\.gradle\\caches\\transforms-3\\c829784a2102bc2d6e73199ca0daea04\\transformed\\appcompat-1.4.2\\res\\values-mk\\values-mk.xml",
@@ -55,7 +55,7 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\walra\\.gradle\\caches\\transforms-3\\e90d407703989166ff4bf77dd64d09ed\\transformed\\core-1.10.1\\res\\values-mk\\values-mk.xml",
+                    "source": "C:\\Users\\walra\\.gradle\\caches\\transforms-3\\3d46468ffd38af5d0ba60d5fe5308523\\transformed\\core-1.13.1\\res\\values-mk\\values-mk.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9",
                         "startColumns": "4,4,4,4,4,4,4,4",

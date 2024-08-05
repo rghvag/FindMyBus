@@ -5,16 +5,16 @@ INJECTED from D:\development\FlutterDEV\PROJECTSS\find_my_bus\android\app\src\ma
 INJECTED from D:\development\FlutterDEV\PROJECTSS\find_my_bus\android\app\src\main\AndroidManifest.xml:1:1-43:12
 INJECTED from D:\development\FlutterDEV\PROJECTSS\find_my_bus\android\app\src\main\AndroidManifest.xml:1:1-43:12
 MERGED from D:\development\FlutterDEV\PROJECTSS\find_my_bus\android\app\src\main\AndroidManifest.xml:1:1-43:12
+MERGED from [:cloud_firestore] D:\development\FlutterDEV\PROJECTSS\find_my_bus\build\cloud_firestore\intermediates\merged_manifest\debug\AndroidManifest.xml:2:1-17:12
 MERGED from [:firebase_auth] D:\development\FlutterDEV\PROJECTSS\find_my_bus\build\firebase_auth\intermediates\merged_manifest\debug\AndroidManifest.xml:2:1-17:12
 MERGED from [:firebase_storage] D:\development\FlutterDEV\PROJECTSS\find_my_bus\build\firebase_storage\intermediates\merged_manifest\debug\AndroidManifest.xml:2:1-17:12
-MERGED from [:cloud_firestore] D:\development\FlutterDEV\PROJECTSS\find_my_bus\build\cloud_firestore\intermediates\merged_manifest\debug\AndroidManifest.xml:2:1-17:12
 MERGED from [:firebase_core] D:\development\FlutterDEV\PROJECTSS\find_my_bus\build\firebase_core\intermediates\merged_manifest\debug\AndroidManifest.xml:2:1-17:12
 MERGED from [:google_maps_flutter_android] D:\development\FlutterDEV\PROJECTSS\find_my_bus\build\google_maps_flutter_android\intermediates\merged_manifest\debug\AndroidManifest.xml:2:1-9:12
-MERGED from [:image_picker_android] D:\development\FlutterDEV\PROJECTSS\find_my_bus\build\image_picker_android\intermediates\merged_manifest\debug\AndroidManifest.xml:2:1-21:12
+MERGED from [:image_picker_android] D:\development\FlutterDEV\PROJECTSS\find_my_bus\build\image_picker_android\intermediates\merged_manifest\debug\AndroidManifest.xml:2:1-36:12
 MERGED from [:flutter_plugin_android_lifecycle] D:\development\FlutterDEV\PROJECTSS\find_my_bus\build\flutter_plugin_android_lifecycle\intermediates\merged_manifest\debug\AndroidManifest.xml:2:1-9:12
+MERGED from [:location] D:\development\FlutterDEV\PROJECTSS\find_my_bus\build\location\intermediates\merged_manifest\debug\AndroidManifest.xml:2:1-20:12
 MERGED from [:path_provider_android] D:\development\FlutterDEV\PROJECTSS\find_my_bus\build\path_provider_android\intermediates\merged_manifest\debug\AndroidManifest.xml:2:1-9:12
 MERGED from [:qr_code_scanner] D:\development\FlutterDEV\PROJECTSS\find_my_bus\build\qr_code_scanner\intermediates\merged_manifest\debug\AndroidManifest.xml:2:1-11:12
-MERGED from [:location] D:\development\FlutterDEV\PROJECTSS\find_my_bus\build\location\intermediates\merged_manifest\debug\AndroidManifest.xml:2:1-20:12
 MERGED from [com.google.firebase:firebase-auth:22.3.0] C:\Users\walra\.gradle\caches\transforms-3\d918713f5fcbb1aa906d7ef37a5db745\transformed\jetified-firebase-auth-22.3.0\AndroidManifest.xml:17:1-75:12
 MERGED from [com.google.firebase:firebase-firestore:24.9.1] C:\Users\walra\.gradle\caches\transforms-3\567b122d8e459f3f6e12869eb6b235e4\transformed\jetified-firebase-firestore-24.9.1\AndroidManifest.xml:2:1-26:12
 MERGED from [com.google.firebase:firebase-storage:20.3.0] C:\Users\walra\.gradle\caches\transforms-3\d361d59bfd81ebed12f210ba17dd9396\transformed\jetified-firebase-storage-20.3.0\AndroidManifest.xml:15:1-39:12
@@ -25,50 +25,53 @@ MERGED from [com.google.firebase:firebase-common:20.4.2] C:\Users\walra\.gradle\
 MERGED from [androidx.appcompat:appcompat:1.4.2] C:\Users\walra\.gradle\caches\transforms-3\c829784a2102bc2d6e73199ca0daea04\transformed\appcompat-1.4.2\AndroidManifest.xml:17:1-24:12
 MERGED from [com.google.android.gms:play-services-maps:18.2.0] C:\Users\walra\.gradle\caches\transforms-3\2a70f55791616800a55bf32f3fb55fdf\transformed\jetified-play-services-maps-18.2.0\AndroidManifest.xml:17:1-44:12
 MERGED from [com.google.android.gms:play-services-location:21.0.1] C:\Users\walra\.gradle\caches\transforms-3\e01cf517bab8361701ac8ecb95c2c70e\transformed\jetified-play-services-location-21.0.1\AndroidManifest.xml:2:1-9:12
-MERGED from [com.google.android.recaptcha:recaptcha:18.1.2] C:\Users\walra\.gradle\caches\transforms-3\cddc28f3c4a6b70f44e66732ca125c50\transformed\jetified-recaptcha-18.1.2\AndroidManifest.xml:2:1-10:12
-MERGED from [androidx.window:window-java:1.0.0-beta04] C:\Users\walra\.gradle\caches\transforms-3\b0f8d86b0b54028e696adb61d48c536a\transformed\jetified-window-java-1.0.0-beta04\AndroidManifest.xml:17:1-23:12
-MERGED from [androidx.loader:loader:1.0.0] C:\Users\walra\.gradle\caches\transforms-3\0b9977f2f4ed8b01a3c12b4b090a4728\transformed\loader-1.0.0\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.savedstate:savedstate:1.2.1] C:\Users\walra\.gradle\caches\transforms-3\906854a661ff8fa0c9bd935ce7800cc0\transformed\jetified-savedstate-1.2.1\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.emoji2:emoji2-views-helper:1.0.0] C:\Users\walra\.gradle\caches\transforms-3\b88fbf2515086c344a32d7e1acbe3860\transformed\jetified-emoji2-views-helper-1.0.0\AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.emoji2:emoji2:1.0.0] C:\Users\walra\.gradle\caches\transforms-3\9f5664d323734f6134689a016bcc4ba7\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:17:1-37:12
-MERGED from [androidx.lifecycle:lifecycle-livedata:2.6.1] C:\Users\walra\.gradle\caches\transforms-3\f06d364b9e61875063dfc249771be508\transformed\lifecycle-livedata-2.6.1\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.lifecycle:lifecycle-process:2.6.1] C:\Users\walra\.gradle\caches\transforms-3\64c5e11941de7bda028907ff4550aef3\transformed\jetified-lifecycle-process-2.6.1\AndroidManifest.xml:17:1-35:12
-MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.6.1] C:\Users\walra\.gradle\caches\transforms-3\7e390dec13de071018581673b280cfca\transformed\lifecycle-livedata-core-2.6.1\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.6.1] C:\Users\walra\.gradle\caches\transforms-3\77dac7c78e9b5149f3e3d027191635ac\transformed\lifecycle-viewmodel-2.6.1\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.lifecycle:lifecycle-runtime:2.6.1] C:\Users\walra\.gradle\caches\transforms-3\5d0484c2dcb1d6859f07f60d3136cd97\transformed\lifecycle-runtime-2.6.1\AndroidManifest.xml:2:1-7:12
-MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.6.1] C:\Users\walra\.gradle\caches\transforms-3\2af3db537d8a38549b1719c651be2c8d\transformed\jetified-lifecycle-viewmodel-savedstate-2.6.1\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.window:window:1.0.0-beta04] C:\Users\walra\.gradle\caches\transforms-3\332352be57ba757b1a099a9b09f49cf5\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:17:1-33:12
 MERGED from [com.google.android.gms:play-services-auth-api-phone:17.4.0] C:\Users\walra\.gradle\caches\transforms-3\2529fb0dd157cc59576848ed6b13c65a\transformed\jetified-play-services-auth-api-phone-17.4.0\AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.android.recaptcha:recaptcha:18.1.2] C:\Users\walra\.gradle\caches\transforms-3\cddc28f3c4a6b70f44e66732ca125c50\transformed\jetified-recaptcha-18.1.2\AndroidManifest.xml:2:1-10:12
 MERGED from [com.google.android.play:integrity:1.1.0] C:\Users\walra\.gradle\caches\transforms-3\c7c7570580ee91725159af8b7c8f4d54\transformed\jetified-integrity-1.1.0\AndroidManifest.xml:2:1-7:12
 MERGED from [com.google.firebase:firebase-appcheck-interop:17.1.0] C:\Users\walra\.gradle\caches\transforms-3\b106325c88f486e52f0803ca0ff8a514\transformed\jetified-firebase-appcheck-interop-17.1.0\AndroidManifest.xml:15:1-23:12
 MERGED from [com.google.firebase:firebase-database-collection:18.0.1] C:\Users\walra\.gradle\caches\transforms-3\e785548ab664da84a543db8fb83f2993\transformed\jetified-firebase-database-collection-18.0.1\AndroidManifest.xml:2:1-9:12
 MERGED from [com.google.android.gms:play-services-base:18.1.0] C:\Users\walra\.gradle\caches\transforms-3\5e84e765f65e9a2090221d2ab12cfa4f\transformed\jetified-play-services-base-18.1.0\AndroidManifest.xml:16:1-24:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\walra\.gradle\caches\transforms-3\0b9977f2f4ed8b01a3c12b4b090a4728\transformed\loader-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.7.0] C:\Users\walra\.gradle\caches\transforms-3\7226a22c70895be8cf35973ffe91e3bd\transformed\jetified-lifecycle-livedata-core-ktx-2.7.0\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.7.0] C:\Users\walra\.gradle\caches\transforms-3\765d78b5713e3abb1d9d9d952ed7f4db\transformed\lifecycle-livedata-2.7.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.7.0] C:\Users\walra\.gradle\caches\transforms-3\49c9c0fd7bb9d2d7d244a0fe38bc5964\transformed\lifecycle-livedata-core-2.7.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.7.0] C:\Users\walra\.gradle\caches\transforms-3\2efe755bbb1c734bc683de6fc14d1a15\transformed\jetified-lifecycle-viewmodel-savedstate-2.7.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.7.0] C:\Users\walra\.gradle\caches\transforms-3\8e328e826b89e3a73fd642fe579a5ac4\transformed\lifecycle-viewmodel-2.7.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.7.0] C:\Users\walra\.gradle\caches\transforms-3\3a2fa5e564b7fe25fe0e3d0f0d153e0b\transformed\lifecycle-runtime-2.7.0\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.emoji2:emoji2-views-helper:1.0.0] C:\Users\walra\.gradle\caches\transforms-3\b88fbf2515086c344a32d7e1acbe3860\transformed\jetified-emoji2-views-helper-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.emoji2:emoji2:1.0.0] C:\Users\walra\.gradle\caches\transforms-3\9f5664d323734f6134689a016bcc4ba7\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:17:1-37:12
+MERGED from [androidx.lifecycle:lifecycle-process:2.7.0] C:\Users\walra\.gradle\caches\transforms-3\7f944bce42bd2a7c0156fae63b55270a\transformed\jetified-lifecycle-process-2.7.0\AndroidManifest.xml:17:1-35:12
+MERGED from [androidx.savedstate:savedstate:1.2.1] C:\Users\walra\.gradle\caches\transforms-3\906854a661ff8fa0c9bd935ce7800cc0\transformed\jetified-savedstate-1.2.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.window:window-java:1.2.0] C:\Users\walra\.gradle\caches\transforms-3\f6f469583e9045a01fef92b6925c5809\transformed\jetified-window-java-1.2.0\AndroidManifest.xml:17:1-21:12
+MERGED from [androidx.window:window:1.2.0] C:\Users\walra\.gradle\caches\transforms-3\d5de499c35475af97141c195624e3e69\transformed\jetified-window-1.2.0\AndroidManifest.xml:17:1-31:12
 MERGED from [com.google.android.gms:play-services-tasks:18.0.2] C:\Users\walra\.gradle\caches\transforms-3\5d8a4a6080307de7f238905fc8ccfcf2\transformed\jetified-play-services-tasks-18.0.2\AndroidManifest.xml:2:1-6:12
 MERGED from [com.google.android.gms:play-services-basement:18.1.0] C:\Users\walra\.gradle\caches\transforms-3\78aba7bc751d1129f94d2c6b8a401c08\transformed\jetified-play-services-basement-18.1.0\AndroidManifest.xml:16:1-26:12
-MERGED from [androidx.fragment:fragment:1.3.6] C:\Users\walra\.gradle\caches\transforms-3\935f936bf159f7b4881b95a5ccd0fc35\transformed\fragment-1.3.6\AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.activity:activity:1.7.2] C:\Users\walra\.gradle\caches\transforms-3\69cdfa69a2366d33dfd5c0ab9d836ba2\transformed\jetified-activity-1.7.2\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.fragment:fragment:1.7.1] C:\Users\walra\.gradle\caches\transforms-3\c6fffdd1c7a3105c2202bb769c3ff6af\transformed\fragment-1.7.1\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.activity:activity:1.9.1] C:\Users\walra\.gradle\caches\transforms-3\1a9e0fe0ab8a9e2945df645968407ddd\transformed\jetified-activity-1.9.1\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.browser:browser:1.4.0] C:\Users\walra\.gradle\caches\transforms-3\ee152f11d768eac2c6d3f3720d39c2d5\transformed\browser-1.4.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core-ktx:1.13.1] C:\Users\walra\.gradle\caches\transforms-3\5d6794177fbe912fa19af3bc8ff428d5\transformed\jetified-core-ktx-1.13.1\AndroidManifest.xml:2:1-7:12
 MERGED from [androidx.appcompat:appcompat-resources:1.4.2] C:\Users\walra\.gradle\caches\transforms-3\b74df2dcf1aab2073c758525156e1718\transformed\jetified-appcompat-resources-1.4.2\AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\walra\.gradle\caches\transforms-3\bfe27912d5e5904a8f5dac1ba736de18\transformed\drawerlayout-1.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\walra\.gradle\caches\transforms-3\d702f99995fed7aabda340dd754ec3cc\transformed\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\walra\.gradle\caches\transforms-3\6cb4ff7251017c5f84eb53285fa708ef\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\walra\.gradle\caches\transforms-3\d3fdac0e8e7baec1f3141a4540564c1b\transformed\vectordrawable-1.1.0\AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.customview:customview:1.0.0] C:\Users\walra\.gradle\caches\transforms-3\01f84038b47e1cfb6ebe700e7667fa85\transformed\customview-1.0.0\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.core:core:1.10.1] C:\Users\walra\.gradle\caches\transforms-3\e90d407703989166ff4bf77dd64d09ed\transformed\core-1.10.1\AndroidManifest.xml:17:1-30:12
-MERGED from [androidx.core:core-ktx:1.10.1] C:\Users\walra\.gradle\caches\transforms-3\8e7de8e460a37351eb58c2f33b120615\transformed\jetified-core-ktx-1.10.1\AndroidManifest.xml:2:1-7:12
-MERGED from [androidx.exifinterface:exifinterface:1.3.6] C:\Users\walra\.gradle\caches\transforms-3\735143f6449db6a408cc8d13c4fb0831\transformed\exifinterface-1.3.6\AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\walra\.gradle\caches\transforms-3\f006bed86d6eb723b8569e6a486799df\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:17:1-55:12
+MERGED from [androidx.core:core:1.13.1] C:\Users\walra\.gradle\caches\transforms-3\3d46468ffd38af5d0ba60d5fe5308523\transformed\core-1.13.1\AndroidManifest.xml:17:1-30:12
+MERGED from [androidx.exifinterface:exifinterface:1.3.7] C:\Users\walra\.gradle\caches\transforms-3\95778bbf718a90d2cab610851d2b6760\transformed\exifinterface-1.3.7\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\walra\.gradle\caches\transforms-3\7d34134397f0c1bc444b67eea0e66a67\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:17:1-55:12
 MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\walra\.gradle\caches\transforms-3\93bc8c9c682a004af26f59e142f349cf\transformed\jetified-startup-runtime-1.1.1\AndroidManifest.xml:17:1-33:12
-MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\walra\.gradle\caches\transforms-3\21e0b8acc26759a28e1d0db6728c12bb\transformed\jetified-tracing-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.tracing:tracing:1.2.0] C:\Users\walra\.gradle\caches\transforms-3\d69ba6824d83ebe1a959636ccca9de04\transformed\jetified-tracing-1.2.0\AndroidManifest.xml:17:1-22:12
 MERGED from [com.google.firebase:firebase-components:17.1.5] C:\Users\walra\.gradle\caches\transforms-3\18ca4c43264ea6b8d1c6e5e703808d48\transformed\jetified-firebase-components-17.1.5\AndroidManifest.xml:15:1-20:12
 MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\walra\.gradle\caches\transforms-3\951074c976f7ef5574bc08d9003a47f0\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\walra\.gradle\caches\transforms-3\9a9a8ceb9d320efb9a1108c610b3d760\transformed\cursoradapter-1.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\walra\.gradle\caches\transforms-3\300ec1b2df7f1335481bbb3d0f0904ab\transformed\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\walra\.gradle\caches\transforms-3\b740a8ce739c3cad2ef7f7bbf4f18158\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\walra\.gradle\caches\transforms-3\9a9a8ceb9d320efb9a1108c610b3d760\transformed\cursoradapter-1.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.arch.core:core-runtime:2.2.0] C:\Users\walra\.gradle\caches\transforms-3\ae081ea86d4ba226e3d45ee18757e82c\transformed\core-runtime-2.2.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.window.extensions.core:core:1.0.0] C:\Users\walra\.gradle\caches\transforms-3\4a5227f4544246515ea68fa871c04f24\transformed\jetified-core-1.0.0\AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.maps.android:android-maps-utils:3.6.0] C:\Users\walra\.gradle\caches\transforms-3\359246df71ecd03dffe06633d0d76d2b\transformed\jetified-android-maps-utils-3.6.0\AndroidManifest.xml:2:1-13:12
 MERGED from [com.journeyapps:zxing-android-embedded:4.3.0] C:\Users\walra\.gradle\caches\transforms-3\e1fbc6f01203406e10d4817b32082e08\transformed\jetified-zxing-android-embedded-4.3.0\AndroidManifest.xml:17:1-56:12
-MERGED from [androidx.annotation:annotation-experimental:1.3.0] C:\Users\walra\.gradle\caches\transforms-3\692242cde99277eef7f195a569d1b910\transformed\jetified-annotation-experimental-1.3.0\AndroidManifest.xml:17:1-22:12
 MERGED from [io.grpc:grpc-android:1.52.1] C:\Users\walra\.gradle\caches\transforms-3\c51c16ee87f0ab9c089e05706790adec\transformed\jetified-grpc-android-1.52.1\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.annotation:annotation-experimental:1.4.0] C:\Users\walra\.gradle\caches\transforms-3\b56dc60fc454155cd9df4646665706db\transformed\jetified-annotation-experimental-1.4.0\AndroidManifest.xml:2:1-7:12
 MERGED from [com.google.firebase:protolite-well-known-types:18.0.0] C:\Users\walra\.gradle\caches\transforms-3\4f5edabe3f7d50980403151c36f05221\transformed\jetified-protolite-well-known-types-18.0.0\AndroidManifest.xml:2:1-11:12
 INJECTED from D:\development\FlutterDEV\PROJECTSS\find_my_bus\android\app\src\debug\AndroidManifest.xml:1:1-7:12
 INJECTED from D:\development\FlutterDEV\PROJECTSS\find_my_bus\android\app\src\debug\AndroidManifest.xml:1:1-7:12
@@ -89,16 +92,16 @@ INJECTED from D:\development\FlutterDEV\PROJECTSS\find_my_bus\android\app\src\de
 		ADDED from D:\development\FlutterDEV\PROJECTSS\find_my_bus\android\app\src\main\AndroidManifest.xml:1:11-69
 application
 ADDED from D:\development\FlutterDEV\PROJECTSS\find_my_bus\android\app\src\main\AndroidManifest.xml:3:4-42:19
+MERGED from [:cloud_firestore] D:\development\FlutterDEV\PROJECTSS\find_my_bus\build\cloud_firestore\intermediates\merged_manifest\debug\AndroidManifest.xml:9:5-15:19
+MERGED from [:cloud_firestore] D:\development\FlutterDEV\PROJECTSS\find_my_bus\build\cloud_firestore\intermediates\merged_manifest\debug\AndroidManifest.xml:9:5-15:19
 MERGED from [:firebase_auth] D:\development\FlutterDEV\PROJECTSS\find_my_bus\build\firebase_auth\intermediates\merged_manifest\debug\AndroidManifest.xml:9:5-15:19
 MERGED from [:firebase_auth] D:\development\FlutterDEV\PROJECTSS\find_my_bus\build\firebase_auth\intermediates\merged_manifest\debug\AndroidManifest.xml:9:5-15:19
 MERGED from [:firebase_storage] D:\development\FlutterDEV\PROJECTSS\find_my_bus\build\firebase_storage\intermediates\merged_manifest\debug\AndroidManifest.xml:9:5-15:19
 MERGED from [:firebase_storage] D:\development\FlutterDEV\PROJECTSS\find_my_bus\build\firebase_storage\intermediates\merged_manifest\debug\AndroidManifest.xml:9:5-15:19
-MERGED from [:cloud_firestore] D:\development\FlutterDEV\PROJECTSS\find_my_bus\build\cloud_firestore\intermediates\merged_manifest\debug\AndroidManifest.xml:9:5-15:19
-MERGED from [:cloud_firestore] D:\development\FlutterDEV\PROJECTSS\find_my_bus\build\cloud_firestore\intermediates\merged_manifest\debug\AndroidManifest.xml:9:5-15:19
 MERGED from [:firebase_core] D:\development\FlutterDEV\PROJECTSS\find_my_bus\build\firebase_core\intermediates\merged_manifest\debug\AndroidManifest.xml:9:5-15:19
 MERGED from [:firebase_core] D:\development\FlutterDEV\PROJECTSS\find_my_bus\build\firebase_core\intermediates\merged_manifest\debug\AndroidManifest.xml:9:5-15:19
-MERGED from [:image_picker_android] D:\development\FlutterDEV\PROJECTSS\find_my_bus\build\image_picker_android\intermediates\merged_manifest\debug\AndroidManifest.xml:9:5-19:19
-MERGED from [:image_picker_android] D:\development\FlutterDEV\PROJECTSS\find_my_bus\build\image_picker_android\intermediates\merged_manifest\debug\AndroidManifest.xml:9:5-19:19
+MERGED from [:image_picker_android] D:\development\FlutterDEV\PROJECTSS\find_my_bus\build\image_picker_android\intermediates\merged_manifest\debug\AndroidManifest.xml:10:5-34:19
+MERGED from [:image_picker_android] D:\development\FlutterDEV\PROJECTSS\find_my_bus\build\image_picker_android\intermediates\merged_manifest\debug\AndroidManifest.xml:10:5-34:19
 MERGED from [:location] D:\development\FlutterDEV\PROJECTSS\find_my_bus\build\location\intermediates\merged_manifest\debug\AndroidManifest.xml:12:5-18:19
 MERGED from [:location] D:\development\FlutterDEV\PROJECTSS\find_my_bus\build\location\intermediates\merged_manifest\debug\AndroidManifest.xml:12:5-18:19
 MERGED from [com.google.firebase:firebase-auth:22.3.0] C:\Users\walra\.gradle\caches\transforms-3\d918713f5fcbb1aa906d7ef37a5db745\transformed\jetified-firebase-auth-22.3.0\AndroidManifest.xml:28:5-73:19
@@ -119,34 +122,36 @@ MERGED from [com.google.android.gms:play-services-maps:18.2.0] C:\Users\walra\.g
 MERGED from [com.google.android.gms:play-services-maps:18.2.0] C:\Users\walra\.gradle\caches\transforms-3\2a70f55791616800a55bf32f3fb55fdf\transformed\jetified-play-services-maps-18.2.0\AndroidManifest.xml:36:5-42:19
 MERGED from [com.google.android.gms:play-services-location:21.0.1] C:\Users\walra\.gradle\caches\transforms-3\e01cf517bab8361701ac8ecb95c2c70e\transformed\jetified-play-services-location-21.0.1\AndroidManifest.xml:7:5-20
 MERGED from [com.google.android.gms:play-services-location:21.0.1] C:\Users\walra\.gradle\caches\transforms-3\e01cf517bab8361701ac8ecb95c2c70e\transformed\jetified-play-services-location-21.0.1\AndroidManifest.xml:7:5-20
-MERGED from [androidx.emoji2:emoji2:1.0.0] C:\Users\walra\.gradle\caches\transforms-3\9f5664d323734f6134689a016bcc4ba7\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:25:5-35:19
-MERGED from [androidx.emoji2:emoji2:1.0.0] C:\Users\walra\.gradle\caches\transforms-3\9f5664d323734f6134689a016bcc4ba7\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:25:5-35:19
-MERGED from [androidx.lifecycle:lifecycle-process:2.6.1] C:\Users\walra\.gradle\caches\transforms-3\64c5e11941de7bda028907ff4550aef3\transformed\jetified-lifecycle-process-2.6.1\AndroidManifest.xml:23:5-33:19
-MERGED from [androidx.lifecycle:lifecycle-process:2.6.1] C:\Users\walra\.gradle\caches\transforms-3\64c5e11941de7bda028907ff4550aef3\transformed\jetified-lifecycle-process-2.6.1\AndroidManifest.xml:23:5-33:19
-MERGED from [androidx.window:window:1.0.0-beta04] C:\Users\walra\.gradle\caches\transforms-3\332352be57ba757b1a099a9b09f49cf5\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:24:5-31:19
-MERGED from [androidx.window:window:1.0.0-beta04] C:\Users\walra\.gradle\caches\transforms-3\332352be57ba757b1a099a9b09f49cf5\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:24:5-31:19
 MERGED from [com.google.android.play:integrity:1.1.0] C:\Users\walra\.gradle\caches\transforms-3\c7c7570580ee91725159af8b7c8f4d54\transformed\jetified-integrity-1.1.0\AndroidManifest.xml:5:5-6:19
 MERGED from [com.google.android.play:integrity:1.1.0] C:\Users\walra\.gradle\caches\transforms-3\c7c7570580ee91725159af8b7c8f4d54\transformed\jetified-integrity-1.1.0\AndroidManifest.xml:5:5-6:19
 MERGED from [com.google.firebase:firebase-appcheck-interop:17.1.0] C:\Users\walra\.gradle\caches\transforms-3\b106325c88f486e52f0803ca0ff8a514\transformed\jetified-firebase-appcheck-interop-17.1.0\AndroidManifest.xml:21:5-20
 MERGED from [com.google.firebase:firebase-appcheck-interop:17.1.0] C:\Users\walra\.gradle\caches\transforms-3\b106325c88f486e52f0803ca0ff8a514\transformed\jetified-firebase-appcheck-interop-17.1.0\AndroidManifest.xml:21:5-20
 MERGED from [com.google.android.gms:play-services-base:18.1.0] C:\Users\walra\.gradle\caches\transforms-3\5e84e765f65e9a2090221d2ab12cfa4f\transformed\jetified-play-services-base-18.1.0\AndroidManifest.xml:19:5-23:19
 MERGED from [com.google.android.gms:play-services-base:18.1.0] C:\Users\walra\.gradle\caches\transforms-3\5e84e765f65e9a2090221d2ab12cfa4f\transformed\jetified-play-services-base-18.1.0\AndroidManifest.xml:19:5-23:19
+MERGED from [androidx.emoji2:emoji2:1.0.0] C:\Users\walra\.gradle\caches\transforms-3\9f5664d323734f6134689a016bcc4ba7\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:25:5-35:19
+MERGED from [androidx.emoji2:emoji2:1.0.0] C:\Users\walra\.gradle\caches\transforms-3\9f5664d323734f6134689a016bcc4ba7\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:25:5-35:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.7.0] C:\Users\walra\.gradle\caches\transforms-3\7f944bce42bd2a7c0156fae63b55270a\transformed\jetified-lifecycle-process-2.7.0\AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.7.0] C:\Users\walra\.gradle\caches\transforms-3\7f944bce42bd2a7c0156fae63b55270a\transformed\jetified-lifecycle-process-2.7.0\AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.window:window:1.2.0] C:\Users\walra\.gradle\caches\transforms-3\d5de499c35475af97141c195624e3e69\transformed\jetified-window-1.2.0\AndroidManifest.xml:22:5-29:19
+MERGED from [androidx.window:window:1.2.0] C:\Users\walra\.gradle\caches\transforms-3\d5de499c35475af97141c195624e3e69\transformed\jetified-window-1.2.0\AndroidManifest.xml:22:5-29:19
 MERGED from [com.google.android.gms:play-services-tasks:18.0.2] C:\Users\walra\.gradle\caches\transforms-3\5d8a4a6080307de7f238905fc8ccfcf2\transformed\jetified-play-services-tasks-18.0.2\AndroidManifest.xml:5:5-20
 MERGED from [com.google.android.gms:play-services-tasks:18.0.2] C:\Users\walra\.gradle\caches\transforms-3\5d8a4a6080307de7f238905fc8ccfcf2\transformed\jetified-play-services-tasks-18.0.2\AndroidManifest.xml:5:5-20
 MERGED from [com.google.android.gms:play-services-basement:18.1.0] C:\Users\walra\.gradle\caches\transforms-3\78aba7bc751d1129f94d2c6b8a401c08\transformed\jetified-play-services-basement-18.1.0\AndroidManifest.xml:20:5-24:19
 MERGED from [com.google.android.gms:play-services-basement:18.1.0] C:\Users\walra\.gradle\caches\transforms-3\78aba7bc751d1129f94d2c6b8a401c08\transformed\jetified-play-services-basement-18.1.0\AndroidManifest.xml:20:5-24:19
-MERGED from [androidx.core:core:1.10.1] C:\Users\walra\.gradle\caches\transforms-3\e90d407703989166ff4bf77dd64d09ed\transformed\core-1.10.1\AndroidManifest.xml:28:5-89
-MERGED from [androidx.core:core:1.10.1] C:\Users\walra\.gradle\caches\transforms-3\e90d407703989166ff4bf77dd64d09ed\transformed\core-1.10.1\AndroidManifest.xml:28:5-89
-MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\walra\.gradle\caches\transforms-3\f006bed86d6eb723b8569e6a486799df\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:23:5-53:19
-MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\walra\.gradle\caches\transforms-3\f006bed86d6eb723b8569e6a486799df\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:23:5-53:19
+MERGED from [androidx.core:core:1.13.1] C:\Users\walra\.gradle\caches\transforms-3\3d46468ffd38af5d0ba60d5fe5308523\transformed\core-1.13.1\AndroidManifest.xml:28:5-89
+MERGED from [androidx.core:core:1.13.1] C:\Users\walra\.gradle\caches\transforms-3\3d46468ffd38af5d0ba60d5fe5308523\transformed\core-1.13.1\AndroidManifest.xml:28:5-89
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\walra\.gradle\caches\transforms-3\7d34134397f0c1bc444b67eea0e66a67\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:23:5-53:19
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\walra\.gradle\caches\transforms-3\7d34134397f0c1bc444b67eea0e66a67\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:23:5-53:19
 MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\walra\.gradle\caches\transforms-3\93bc8c9c682a004af26f59e142f349cf\transformed\jetified-startup-runtime-1.1.1\AndroidManifest.xml:25:5-31:19
 MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\walra\.gradle\caches\transforms-3\93bc8c9c682a004af26f59e142f349cf\transformed\jetified-startup-runtime-1.1.1\AndroidManifest.xml:25:5-31:19
 MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\walra\.gradle\caches\transforms-3\b740a8ce739c3cad2ef7f7bbf4f18158\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
 MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\walra\.gradle\caches\transforms-3\b740a8ce739c3cad2ef7f7bbf4f18158\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+MERGED from [com.google.maps.android:android-maps-utils:3.6.0] C:\Users\walra\.gradle\caches\transforms-3\359246df71ecd03dffe06633d0d76d2b\transformed\jetified-android-maps-utils-3.6.0\AndroidManifest.xml:7:5-11:19
+MERGED from [com.google.maps.android:android-maps-utils:3.6.0] C:\Users\walra\.gradle\caches\transforms-3\359246df71ecd03dffe06633d0d76d2b\transformed\jetified-android-maps-utils-3.6.0\AndroidManifest.xml:7:5-11:19
 MERGED from [com.journeyapps:zxing-android-embedded:4.3.0] C:\Users\walra\.gradle\caches\transforms-3\e1fbc6f01203406e10d4817b32082e08\transformed\jetified-zxing-android-embedded-4.3.0\AndroidManifest.xml:46:5-54:19
 MERGED from [com.journeyapps:zxing-android-embedded:4.3.0] C:\Users\walra\.gradle\caches\transforms-3\e1fbc6f01203406e10d4817b32082e08\transformed\jetified-zxing-android-embedded-4.3.0\AndroidManifest.xml:46:5-54:19
 	android:appComponentFactory
-		ADDED from [androidx.core:core:1.10.1] C:\Users\walra\.gradle\caches\transforms-3\e90d407703989166ff4bf77dd64d09ed\transformed\core-1.10.1\AndroidManifest.xml:28:18-86
+		ADDED from [androidx.core:core:1.13.1] C:\Users\walra\.gradle\caches\transforms-3\3d46468ffd38af5d0ba60d5fe5308523\transformed\core-1.13.1\AndroidManifest.xml:28:18-86
 	android:label
 		ADDED from D:\development\FlutterDEV\PROJECTSS\find_my_bus\android\app\src\main\AndroidManifest.xml:4:9-36
 	android:icon
@@ -203,26 +208,26 @@ uses-sdk
 INJECTED from D:\development\FlutterDEV\PROJECTSS\find_my_bus\android\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from D:\development\FlutterDEV\PROJECTSS\find_my_bus\android\app\src\main\AndroidManifest.xml
 INJECTED from D:\development\FlutterDEV\PROJECTSS\find_my_bus\android\app\src\main\AndroidManifest.xml
+MERGED from [:cloud_firestore] D:\development\FlutterDEV\PROJECTSS\find_my_bus\build\cloud_firestore\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-7:41
+MERGED from [:cloud_firestore] D:\development\FlutterDEV\PROJECTSS\find_my_bus\build\cloud_firestore\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-7:41
 MERGED from [:firebase_auth] D:\development\FlutterDEV\PROJECTSS\find_my_bus\build\firebase_auth\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-7:41
 MERGED from [:firebase_auth] D:\development\FlutterDEV\PROJECTSS\find_my_bus\build\firebase_auth\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-7:41
 MERGED from [:firebase_storage] D:\development\FlutterDEV\PROJECTSS\find_my_bus\build\firebase_storage\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-7:41
 MERGED from [:firebase_storage] D:\development\FlutterDEV\PROJECTSS\find_my_bus\build\firebase_storage\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-7:41
-MERGED from [:cloud_firestore] D:\development\FlutterDEV\PROJECTSS\find_my_bus\build\cloud_firestore\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-7:41
-MERGED from [:cloud_firestore] D:\development\FlutterDEV\PROJECTSS\find_my_bus\build\cloud_firestore\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-7:41
 MERGED from [:firebase_core] D:\development\FlutterDEV\PROJECTSS\find_my_bus\build\firebase_core\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-7:41
 MERGED from [:firebase_core] D:\development\FlutterDEV\PROJECTSS\find_my_bus\build\firebase_core\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-7:41
 MERGED from [:google_maps_flutter_android] D:\development\FlutterDEV\PROJECTSS\find_my_bus\build\google_maps_flutter_android\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-7:41
 MERGED from [:google_maps_flutter_android] D:\development\FlutterDEV\PROJECTSS\find_my_bus\build\google_maps_flutter_android\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-7:41
-MERGED from [:image_picker_android] D:\development\FlutterDEV\PROJECTSS\find_my_bus\build\image_picker_android\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-7:41
-MERGED from [:image_picker_android] D:\development\FlutterDEV\PROJECTSS\find_my_bus\build\image_picker_android\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-7:41
+MERGED from [:image_picker_android] D:\development\FlutterDEV\PROJECTSS\find_my_bus\build\image_picker_android\intermediates\merged_manifest\debug\AndroidManifest.xml:6:5-8:41
+MERGED from [:image_picker_android] D:\development\FlutterDEV\PROJECTSS\find_my_bus\build\image_picker_android\intermediates\merged_manifest\debug\AndroidManifest.xml:6:5-8:41
 MERGED from [:flutter_plugin_android_lifecycle] D:\development\FlutterDEV\PROJECTSS\find_my_bus\build\flutter_plugin_android_lifecycle\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-7:41
 MERGED from [:flutter_plugin_android_lifecycle] D:\development\FlutterDEV\PROJECTSS\find_my_bus\build\flutter_plugin_android_lifecycle\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-7:41
+MERGED from [:location] D:\development\FlutterDEV\PROJECTSS\find_my_bus\build\location\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-7:41
+MERGED from [:location] D:\development\FlutterDEV\PROJECTSS\find_my_bus\build\location\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-7:41
 MERGED from [:path_provider_android] D:\development\FlutterDEV\PROJECTSS\find_my_bus\build\path_provider_android\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-7:41
 MERGED from [:path_provider_android] D:\development\FlutterDEV\PROJECTSS\find_my_bus\build\path_provider_android\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-7:41
 MERGED from [:qr_code_scanner] D:\development\FlutterDEV\PROJECTSS\find_my_bus\build\qr_code_scanner\intermediates\merged_manifest\debug\AndroidManifest.xml:6:5-9:67
 MERGED from [:qr_code_scanner] D:\development\FlutterDEV\PROJECTSS\find_my_bus\build\qr_code_scanner\intermediates\merged_manifest\debug\AndroidManifest.xml:6:5-9:67
-MERGED from [:location] D:\development\FlutterDEV\PROJECTSS\find_my_bus\build\location\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-7:41
-MERGED from [:location] D:\development\FlutterDEV\PROJECTSS\find_my_bus\build\location\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-7:41
 MERGED from [com.google.firebase:firebase-auth:22.3.0] C:\Users\walra\.gradle\caches\transforms-3\d918713f5fcbb1aa906d7ef37a5db745\transformed\jetified-firebase-auth-22.3.0\AndroidManifest.xml:21:5-23:64
 MERGED from [com.google.firebase:firebase-auth:22.3.0] C:\Users\walra\.gradle\caches\transforms-3\d918713f5fcbb1aa906d7ef37a5db745\transformed\jetified-firebase-auth-22.3.0\AndroidManifest.xml:21:5-23:64
 MERGED from [com.google.firebase:firebase-firestore:24.9.1] C:\Users\walra\.gradle\caches\transforms-3\567b122d8e459f3f6e12869eb6b235e4\transformed\jetified-firebase-firestore-24.9.1\AndroidManifest.xml:6:5-44
@@ -243,34 +248,10 @@ MERGED from [com.google.android.gms:play-services-maps:18.2.0] C:\Users\walra\.g
 MERGED from [com.google.android.gms:play-services-maps:18.2.0] C:\Users\walra\.gradle\caches\transforms-3\2a70f55791616800a55bf32f3fb55fdf\transformed\jetified-play-services-maps-18.2.0\AndroidManifest.xml:20:5-44
 MERGED from [com.google.android.gms:play-services-location:21.0.1] C:\Users\walra\.gradle\caches\transforms-3\e01cf517bab8361701ac8ecb95c2c70e\transformed\jetified-play-services-location-21.0.1\AndroidManifest.xml:5:5-44
 MERGED from [com.google.android.gms:play-services-location:21.0.1] C:\Users\walra\.gradle\caches\transforms-3\e01cf517bab8361701ac8ecb95c2c70e\transformed\jetified-play-services-location-21.0.1\AndroidManifest.xml:5:5-44
-MERGED from [com.google.android.recaptcha:recaptcha:18.1.2] C:\Users\walra\.gradle\caches\transforms-3\cddc28f3c4a6b70f44e66732ca125c50\transformed\jetified-recaptcha-18.1.2\AndroidManifest.xml:5:5-44
-MERGED from [com.google.android.recaptcha:recaptcha:18.1.2] C:\Users\walra\.gradle\caches\transforms-3\cddc28f3c4a6b70f44e66732ca125c50\transformed\jetified-recaptcha-18.1.2\AndroidManifest.xml:5:5-44
-MERGED from [androidx.window:window-java:1.0.0-beta04] C:\Users\walra\.gradle\caches\transforms-3\b0f8d86b0b54028e696adb61d48c536a\transformed\jetified-window-java-1.0.0-beta04\AndroidManifest.xml:19:5-21:41
-MERGED from [androidx.window:window-java:1.0.0-beta04] C:\Users\walra\.gradle\caches\transforms-3\b0f8d86b0b54028e696adb61d48c536a\transformed\jetified-window-java-1.0.0-beta04\AndroidManifest.xml:19:5-21:41
-MERGED from [androidx.loader:loader:1.0.0] C:\Users\walra\.gradle\caches\transforms-3\0b9977f2f4ed8b01a3c12b4b090a4728\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.loader:loader:1.0.0] C:\Users\walra\.gradle\caches\transforms-3\0b9977f2f4ed8b01a3c12b4b090a4728\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.savedstate:savedstate:1.2.1] C:\Users\walra\.gradle\caches\transforms-3\906854a661ff8fa0c9bd935ce7800cc0\transformed\jetified-savedstate-1.2.1\AndroidManifest.xml:20:5-44
-MERGED from [androidx.savedstate:savedstate:1.2.1] C:\Users\walra\.gradle\caches\transforms-3\906854a661ff8fa0c9bd935ce7800cc0\transformed\jetified-savedstate-1.2.1\AndroidManifest.xml:20:5-44
-MERGED from [androidx.emoji2:emoji2-views-helper:1.0.0] C:\Users\walra\.gradle\caches\transforms-3\b88fbf2515086c344a32d7e1acbe3860\transformed\jetified-emoji2-views-helper-1.0.0\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.emoji2:emoji2-views-helper:1.0.0] C:\Users\walra\.gradle\caches\transforms-3\b88fbf2515086c344a32d7e1acbe3860\transformed\jetified-emoji2-views-helper-1.0.0\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.emoji2:emoji2:1.0.0] C:\Users\walra\.gradle\caches\transforms-3\9f5664d323734f6134689a016bcc4ba7\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:21:5-23:41
-MERGED from [androidx.emoji2:emoji2:1.0.0] C:\Users\walra\.gradle\caches\transforms-3\9f5664d323734f6134689a016bcc4ba7\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:21:5-23:41
-MERGED from [androidx.lifecycle:lifecycle-livedata:2.6.1] C:\Users\walra\.gradle\caches\transforms-3\f06d364b9e61875063dfc249771be508\transformed\lifecycle-livedata-2.6.1\AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-livedata:2.6.1] C:\Users\walra\.gradle\caches\transforms-3\f06d364b9e61875063dfc249771be508\transformed\lifecycle-livedata-2.6.1\AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-process:2.6.1] C:\Users\walra\.gradle\caches\transforms-3\64c5e11941de7bda028907ff4550aef3\transformed\jetified-lifecycle-process-2.6.1\AndroidManifest.xml:21:5-44
-MERGED from [androidx.lifecycle:lifecycle-process:2.6.1] C:\Users\walra\.gradle\caches\transforms-3\64c5e11941de7bda028907ff4550aef3\transformed\jetified-lifecycle-process-2.6.1\AndroidManifest.xml:21:5-44
-MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.6.1] C:\Users\walra\.gradle\caches\transforms-3\7e390dec13de071018581673b280cfca\transformed\lifecycle-livedata-core-2.6.1\AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.6.1] C:\Users\walra\.gradle\caches\transforms-3\7e390dec13de071018581673b280cfca\transformed\lifecycle-livedata-core-2.6.1\AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.6.1] C:\Users\walra\.gradle\caches\transforms-3\77dac7c78e9b5149f3e3d027191635ac\transformed\lifecycle-viewmodel-2.6.1\AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.6.1] C:\Users\walra\.gradle\caches\transforms-3\77dac7c78e9b5149f3e3d027191635ac\transformed\lifecycle-viewmodel-2.6.1\AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-runtime:2.6.1] C:\Users\walra\.gradle\caches\transforms-3\5d0484c2dcb1d6859f07f60d3136cd97\transformed\lifecycle-runtime-2.6.1\AndroidManifest.xml:5:5-44
-MERGED from [androidx.lifecycle:lifecycle-runtime:2.6.1] C:\Users\walra\.gradle\caches\transforms-3\5d0484c2dcb1d6859f07f60d3136cd97\transformed\lifecycle-runtime-2.6.1\AndroidManifest.xml:5:5-44
-MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.6.1] C:\Users\walra\.gradle\caches\transforms-3\2af3db537d8a38549b1719c651be2c8d\transformed\jetified-lifecycle-viewmodel-savedstate-2.6.1\AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.6.1] C:\Users\walra\.gradle\caches\transforms-3\2af3db537d8a38549b1719c651be2c8d\transformed\jetified-lifecycle-viewmodel-savedstate-2.6.1\AndroidManifest.xml:20:5-44
-MERGED from [androidx.window:window:1.0.0-beta04] C:\Users\walra\.gradle\caches\transforms-3\332352be57ba757b1a099a9b09f49cf5\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.window:window:1.0.0-beta04] C:\Users\walra\.gradle\caches\transforms-3\332352be57ba757b1a099a9b09f49cf5\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:20:5-22:41
 MERGED from [com.google.android.gms:play-services-auth-api-phone:17.4.0] C:\Users\walra\.gradle\caches\transforms-3\2529fb0dd157cc59576848ed6b13c65a\transformed\jetified-play-services-auth-api-phone-17.4.0\AndroidManifest.xml:5:5-44
 MERGED from [com.google.android.gms:play-services-auth-api-phone:17.4.0] C:\Users\walra\.gradle\caches\transforms-3\2529fb0dd157cc59576848ed6b13c65a\transformed\jetified-play-services-auth-api-phone-17.4.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.recaptcha:recaptcha:18.1.2] C:\Users\walra\.gradle\caches\transforms-3\cddc28f3c4a6b70f44e66732ca125c50\transformed\jetified-recaptcha-18.1.2\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.recaptcha:recaptcha:18.1.2] C:\Users\walra\.gradle\caches\transforms-3\cddc28f3c4a6b70f44e66732ca125c50\transformed\jetified-recaptcha-18.1.2\AndroidManifest.xml:5:5-44
 MERGED from [com.google.android.play:integrity:1.1.0] C:\Users\walra\.gradle\caches\transforms-3\c7c7570580ee91725159af8b7c8f4d54\transformed\jetified-integrity-1.1.0\AndroidManifest.xml:4:5-44
 MERGED from [com.google.android.play:integrity:1.1.0] C:\Users\walra\.gradle\caches\transforms-3\c7c7570580ee91725159af8b7c8f4d54\transformed\jetified-integrity-1.1.0\AndroidManifest.xml:4:5-44
 MERGED from [com.google.firebase:firebase-appcheck-interop:17.1.0] C:\Users\walra\.gradle\caches\transforms-3\b106325c88f486e52f0803ca0ff8a514\transformed\jetified-firebase-appcheck-interop-17.1.0\AndroidManifest.xml:18:5-44
@@ -279,16 +260,44 @@ MERGED from [com.google.firebase:firebase-database-collection:18.0.1] C:\Users\w
 MERGED from [com.google.firebase:firebase-database-collection:18.0.1] C:\Users\walra\.gradle\caches\transforms-3\e785548ab664da84a543db8fb83f2993\transformed\jetified-firebase-database-collection-18.0.1\AndroidManifest.xml:5:5-7:41
 MERGED from [com.google.android.gms:play-services-base:18.1.0] C:\Users\walra\.gradle\caches\transforms-3\5e84e765f65e9a2090221d2ab12cfa4f\transformed\jetified-play-services-base-18.1.0\AndroidManifest.xml:18:5-43
 MERGED from [com.google.android.gms:play-services-base:18.1.0] C:\Users\walra\.gradle\caches\transforms-3\5e84e765f65e9a2090221d2ab12cfa4f\transformed\jetified-play-services-base-18.1.0\AndroidManifest.xml:18:5-43
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\walra\.gradle\caches\transforms-3\0b9977f2f4ed8b01a3c12b4b090a4728\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\walra\.gradle\caches\transforms-3\0b9977f2f4ed8b01a3c12b4b090a4728\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.7.0] C:\Users\walra\.gradle\caches\transforms-3\7226a22c70895be8cf35973ffe91e3bd\transformed\jetified-lifecycle-livedata-core-ktx-2.7.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.7.0] C:\Users\walra\.gradle\caches\transforms-3\7226a22c70895be8cf35973ffe91e3bd\transformed\jetified-lifecycle-livedata-core-ktx-2.7.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.7.0] C:\Users\walra\.gradle\caches\transforms-3\765d78b5713e3abb1d9d9d952ed7f4db\transformed\lifecycle-livedata-2.7.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.7.0] C:\Users\walra\.gradle\caches\transforms-3\765d78b5713e3abb1d9d9d952ed7f4db\transformed\lifecycle-livedata-2.7.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.7.0] C:\Users\walra\.gradle\caches\transforms-3\49c9c0fd7bb9d2d7d244a0fe38bc5964\transformed\lifecycle-livedata-core-2.7.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.7.0] C:\Users\walra\.gradle\caches\transforms-3\49c9c0fd7bb9d2d7d244a0fe38bc5964\transformed\lifecycle-livedata-core-2.7.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.7.0] C:\Users\walra\.gradle\caches\transforms-3\2efe755bbb1c734bc683de6fc14d1a15\transformed\jetified-lifecycle-viewmodel-savedstate-2.7.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.7.0] C:\Users\walra\.gradle\caches\transforms-3\2efe755bbb1c734bc683de6fc14d1a15\transformed\jetified-lifecycle-viewmodel-savedstate-2.7.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.7.0] C:\Users\walra\.gradle\caches\transforms-3\8e328e826b89e3a73fd642fe579a5ac4\transformed\lifecycle-viewmodel-2.7.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.7.0] C:\Users\walra\.gradle\caches\transforms-3\8e328e826b89e3a73fd642fe579a5ac4\transformed\lifecycle-viewmodel-2.7.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.7.0] C:\Users\walra\.gradle\caches\transforms-3\3a2fa5e564b7fe25fe0e3d0f0d153e0b\transformed\lifecycle-runtime-2.7.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.7.0] C:\Users\walra\.gradle\caches\transforms-3\3a2fa5e564b7fe25fe0e3d0f0d153e0b\transformed\lifecycle-runtime-2.7.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.emoji2:emoji2-views-helper:1.0.0] C:\Users\walra\.gradle\caches\transforms-3\b88fbf2515086c344a32d7e1acbe3860\transformed\jetified-emoji2-views-helper-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.emoji2:emoji2-views-helper:1.0.0] C:\Users\walra\.gradle\caches\transforms-3\b88fbf2515086c344a32d7e1acbe3860\transformed\jetified-emoji2-views-helper-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.emoji2:emoji2:1.0.0] C:\Users\walra\.gradle\caches\transforms-3\9f5664d323734f6134689a016bcc4ba7\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.emoji2:emoji2:1.0.0] C:\Users\walra\.gradle\caches\transforms-3\9f5664d323734f6134689a016bcc4ba7\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.lifecycle:lifecycle-process:2.7.0] C:\Users\walra\.gradle\caches\transforms-3\7f944bce42bd2a7c0156fae63b55270a\transformed\jetified-lifecycle-process-2.7.0\AndroidManifest.xml:21:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.7.0] C:\Users\walra\.gradle\caches\transforms-3\7f944bce42bd2a7c0156fae63b55270a\transformed\jetified-lifecycle-process-2.7.0\AndroidManifest.xml:21:5-44
+MERGED from [androidx.savedstate:savedstate:1.2.1] C:\Users\walra\.gradle\caches\transforms-3\906854a661ff8fa0c9bd935ce7800cc0\transformed\jetified-savedstate-1.2.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.2.1] C:\Users\walra\.gradle\caches\transforms-3\906854a661ff8fa0c9bd935ce7800cc0\transformed\jetified-savedstate-1.2.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.window:window-java:1.2.0] C:\Users\walra\.gradle\caches\transforms-3\f6f469583e9045a01fef92b6925c5809\transformed\jetified-window-java-1.2.0\AndroidManifest.xml:19:5-44
+MERGED from [androidx.window:window-java:1.2.0] C:\Users\walra\.gradle\caches\transforms-3\f6f469583e9045a01fef92b6925c5809\transformed\jetified-window-java-1.2.0\AndroidManifest.xml:19:5-44
+MERGED from [androidx.window:window:1.2.0] C:\Users\walra\.gradle\caches\transforms-3\d5de499c35475af97141c195624e3e69\transformed\jetified-window-1.2.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.window:window:1.2.0] C:\Users\walra\.gradle\caches\transforms-3\d5de499c35475af97141c195624e3e69\transformed\jetified-window-1.2.0\AndroidManifest.xml:20:5-44
 MERGED from [com.google.android.gms:play-services-tasks:18.0.2] C:\Users\walra\.gradle\caches\transforms-3\5d8a4a6080307de7f238905fc8ccfcf2\transformed\jetified-play-services-tasks-18.0.2\AndroidManifest.xml:4:5-43
 MERGED from [com.google.android.gms:play-services-tasks:18.0.2] C:\Users\walra\.gradle\caches\transforms-3\5d8a4a6080307de7f238905fc8ccfcf2\transformed\jetified-play-services-tasks-18.0.2\AndroidManifest.xml:4:5-43
 MERGED from [com.google.android.gms:play-services-basement:18.1.0] C:\Users\walra\.gradle\caches\transforms-3\78aba7bc751d1129f94d2c6b8a401c08\transformed\jetified-play-services-basement-18.1.0\AndroidManifest.xml:18:5-43
 MERGED from [com.google.android.gms:play-services-basement:18.1.0] C:\Users\walra\.gradle\caches\transforms-3\78aba7bc751d1129f94d2c6b8a401c08\transformed\jetified-play-services-basement-18.1.0\AndroidManifest.xml:18:5-43
-MERGED from [androidx.fragment:fragment:1.3.6] C:\Users\walra\.gradle\caches\transforms-3\935f936bf159f7b4881b95a5ccd0fc35\transformed\fragment-1.3.6\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.fragment:fragment:1.3.6] C:\Users\walra\.gradle\caches\transforms-3\935f936bf159f7b4881b95a5ccd0fc35\transformed\fragment-1.3.6\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.activity:activity:1.7.2] C:\Users\walra\.gradle\caches\transforms-3\69cdfa69a2366d33dfd5c0ab9d836ba2\transformed\jetified-activity-1.7.2\AndroidManifest.xml:20:5-44
-MERGED from [androidx.activity:activity:1.7.2] C:\Users\walra\.gradle\caches\transforms-3\69cdfa69a2366d33dfd5c0ab9d836ba2\transformed\jetified-activity-1.7.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.7.1] C:\Users\walra\.gradle\caches\transforms-3\c6fffdd1c7a3105c2202bb769c3ff6af\transformed\fragment-1.7.1\AndroidManifest.xml:5:5-44
+MERGED from [androidx.fragment:fragment:1.7.1] C:\Users\walra\.gradle\caches\transforms-3\c6fffdd1c7a3105c2202bb769c3ff6af\transformed\fragment-1.7.1\AndroidManifest.xml:5:5-44
+MERGED from [androidx.activity:activity:1.9.1] C:\Users\walra\.gradle\caches\transforms-3\1a9e0fe0ab8a9e2945df645968407ddd\transformed\jetified-activity-1.9.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.9.1] C:\Users\walra\.gradle\caches\transforms-3\1a9e0fe0ab8a9e2945df645968407ddd\transformed\jetified-activity-1.9.1\AndroidManifest.xml:20:5-44
 MERGED from [androidx.browser:browser:1.4.0] C:\Users\walra\.gradle\caches\transforms-3\ee152f11d768eac2c6d3f3720d39c2d5\transformed\browser-1.4.0\AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.browser:browser:1.4.0] C:\Users\walra\.gradle\caches\transforms-3\ee152f11d768eac2c6d3f3720d39c2d5\transformed\browser-1.4.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core-ktx:1.13.1] C:\Users\walra\.gradle\caches\transforms-3\5d6794177fbe912fa19af3bc8ff428d5\transformed\jetified-core-ktx-1.13.1\AndroidManifest.xml:5:5-44
+MERGED from [androidx.core:core-ktx:1.13.1] C:\Users\walra\.gradle\caches\transforms-3\5d6794177fbe912fa19af3bc8ff428d5\transformed\jetified-core-ktx-1.13.1\AndroidManifest.xml:5:5-44
 MERGED from [androidx.appcompat:appcompat-resources:1.4.2] C:\Users\walra\.gradle\caches\transforms-3\b74df2dcf1aab2073c758525156e1718\transformed\jetified-appcompat-resources-1.4.2\AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.appcompat:appcompat-resources:1.4.2] C:\Users\walra\.gradle\caches\transforms-3\b74df2dcf1aab2073c758525156e1718\transformed\jetified-appcompat-resources-1.4.2\AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\walra\.gradle\caches\transforms-3\bfe27912d5e5904a8f5dac1ba736de18\transformed\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
@@ -301,36 +310,38 @@ MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\walra\.gradl
 MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\walra\.gradle\caches\transforms-3\d3fdac0e8e7baec1f3141a4540564c1b\transformed\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.customview:customview:1.0.0] C:\Users\walra\.gradle\caches\transforms-3\01f84038b47e1cfb6ebe700e7667fa85\transformed\customview-1.0.0\AndroidManifest.xml:20:5-44
 MERGED from [androidx.customview:customview:1.0.0] C:\Users\walra\.gradle\caches\transforms-3\01f84038b47e1cfb6ebe700e7667fa85\transformed\customview-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.core:core:1.10.1] C:\Users\walra\.gradle\caches\transforms-3\e90d407703989166ff4bf77dd64d09ed\transformed\core-1.10.1\AndroidManifest.xml:20:5-44
-MERGED from [androidx.core:core:1.10.1] C:\Users\walra\.gradle\caches\transforms-3\e90d407703989166ff4bf77dd64d09ed\transformed\core-1.10.1\AndroidManifest.xml:20:5-44
-MERGED from [androidx.core:core-ktx:1.10.1] C:\Users\walra\.gradle\caches\transforms-3\8e7de8e460a37351eb58c2f33b120615\transformed\jetified-core-ktx-1.10.1\AndroidManifest.xml:5:5-44
-MERGED from [androidx.core:core-ktx:1.10.1] C:\Users\walra\.gradle\caches\transforms-3\8e7de8e460a37351eb58c2f33b120615\transformed\jetified-core-ktx-1.10.1\AndroidManifest.xml:5:5-44
-MERGED from [androidx.exifinterface:exifinterface:1.3.6] C:\Users\walra\.gradle\caches\transforms-3\735143f6449db6a408cc8d13c4fb0831\transformed\exifinterface-1.3.6\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.exifinterface:exifinterface:1.3.6] C:\Users\walra\.gradle\caches\transforms-3\735143f6449db6a408cc8d13c4fb0831\transformed\exifinterface-1.3.6\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\walra\.gradle\caches\transforms-3\f006bed86d6eb723b8569e6a486799df\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:21:5-44
-MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\walra\.gradle\caches\transforms-3\f006bed86d6eb723b8569e6a486799df\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:21:5-44
+MERGED from [androidx.core:core:1.13.1] C:\Users\walra\.gradle\caches\transforms-3\3d46468ffd38af5d0ba60d5fe5308523\transformed\core-1.13.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.13.1] C:\Users\walra\.gradle\caches\transforms-3\3d46468ffd38af5d0ba60d5fe5308523\transformed\core-1.13.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.exifinterface:exifinterface:1.3.7] C:\Users\walra\.gradle\caches\transforms-3\95778bbf718a90d2cab610851d2b6760\transformed\exifinterface-1.3.7\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.exifinterface:exifinterface:1.3.7] C:\Users\walra\.gradle\caches\transforms-3\95778bbf718a90d2cab610851d2b6760\transformed\exifinterface-1.3.7\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\walra\.gradle\caches\transforms-3\7d34134397f0c1bc444b67eea0e66a67\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:21:5-44
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\walra\.gradle\caches\transforms-3\7d34134397f0c1bc444b67eea0e66a67\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:21:5-44
 MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\walra\.gradle\caches\transforms-3\93bc8c9c682a004af26f59e142f349cf\transformed\jetified-startup-runtime-1.1.1\AndroidManifest.xml:21:5-23:41
 MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\walra\.gradle\caches\transforms-3\93bc8c9c682a004af26f59e142f349cf\transformed\jetified-startup-runtime-1.1.1\AndroidManifest.xml:21:5-23:41
-MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\walra\.gradle\caches\transforms-3\21e0b8acc26759a28e1d0db6728c12bb\transformed\jetified-tracing-1.0.0\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\walra\.gradle\caches\transforms-3\21e0b8acc26759a28e1d0db6728c12bb\transformed\jetified-tracing-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.2.0] C:\Users\walra\.gradle\caches\transforms-3\d69ba6824d83ebe1a959636ccca9de04\transformed\jetified-tracing-1.2.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.tracing:tracing:1.2.0] C:\Users\walra\.gradle\caches\transforms-3\d69ba6824d83ebe1a959636ccca9de04\transformed\jetified-tracing-1.2.0\AndroidManifest.xml:20:5-44
 MERGED from [com.google.firebase:firebase-components:17.1.5] C:\Users\walra\.gradle\caches\transforms-3\18ca4c43264ea6b8d1c6e5e703808d48\transformed\jetified-firebase-components-17.1.5\AndroidManifest.xml:18:5-44
 MERGED from [com.google.firebase:firebase-components:17.1.5] C:\Users\walra\.gradle\caches\transforms-3\18ca4c43264ea6b8d1c6e5e703808d48\transformed\jetified-firebase-components-17.1.5\AndroidManifest.xml:18:5-44
 MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\walra\.gradle\caches\transforms-3\951074c976f7ef5574bc08d9003a47f0\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
 MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\walra\.gradle\caches\transforms-3\951074c976f7ef5574bc08d9003a47f0\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\walra\.gradle\caches\transforms-3\9a9a8ceb9d320efb9a1108c610b3d760\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\walra\.gradle\caches\transforms-3\9a9a8ceb9d320efb9a1108c610b3d760\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
 MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\walra\.gradle\caches\transforms-3\300ec1b2df7f1335481bbb3d0f0904ab\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
 MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\walra\.gradle\caches\transforms-3\300ec1b2df7f1335481bbb3d0f0904ab\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
 MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\walra\.gradle\caches\transforms-3\b740a8ce739c3cad2ef7f7bbf4f18158\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\walra\.gradle\caches\transforms-3\b740a8ce739c3cad2ef7f7bbf4f18158\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\walra\.gradle\caches\transforms-3\9a9a8ceb9d320efb9a1108c610b3d760\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\walra\.gradle\caches\transforms-3\9a9a8ceb9d320efb9a1108c610b3d760\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
 MERGED from [androidx.arch.core:core-runtime:2.2.0] C:\Users\walra\.gradle\caches\transforms-3\ae081ea86d4ba226e3d45ee18757e82c\transformed\core-runtime-2.2.0\AndroidManifest.xml:20:5-44
 MERGED from [androidx.arch.core:core-runtime:2.2.0] C:\Users\walra\.gradle\caches\transforms-3\ae081ea86d4ba226e3d45ee18757e82c\transformed\core-runtime-2.2.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.window.extensions.core:core:1.0.0] C:\Users\walra\.gradle\caches\transforms-3\4a5227f4544246515ea68fa871c04f24\transformed\jetified-core-1.0.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.window.extensions.core:core:1.0.0] C:\Users\walra\.gradle\caches\transforms-3\4a5227f4544246515ea68fa871c04f24\transformed\jetified-core-1.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.maps.android:android-maps-utils:3.6.0] C:\Users\walra\.gradle\caches\transforms-3\359246df71ecd03dffe06633d0d76d2b\transformed\jetified-android-maps-utils-3.6.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.maps.android:android-maps-utils:3.6.0] C:\Users\walra\.gradle\caches\transforms-3\359246df71ecd03dffe06633d0d76d2b\transformed\jetified-android-maps-utils-3.6.0\AndroidManifest.xml:5:5-44
 MERGED from [com.journeyapps:zxing-android-embedded:4.3.0] C:\Users\walra\.gradle\caches\transforms-3\e1fbc6f01203406e10d4817b32082e08\transformed\jetified-zxing-android-embedded-4.3.0\AndroidManifest.xml:20:5-44
 MERGED from [com.journeyapps:zxing-android-embedded:4.3.0] C:\Users\walra\.gradle\caches\transforms-3\e1fbc6f01203406e10d4817b32082e08\transformed\jetified-zxing-android-embedded-4.3.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.annotation:annotation-experimental:1.3.0] C:\Users\walra\.gradle\caches\transforms-3\692242cde99277eef7f195a569d1b910\transformed\jetified-annotation-experimental-1.3.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.annotation:annotation-experimental:1.3.0] C:\Users\walra\.gradle\caches\transforms-3\692242cde99277eef7f195a569d1b910\transformed\jetified-annotation-experimental-1.3.0\AndroidManifest.xml:20:5-44
 MERGED from [io.grpc:grpc-android:1.52.1] C:\Users\walra\.gradle\caches\transforms-3\c51c16ee87f0ab9c089e05706790adec\transformed\jetified-grpc-android-1.52.1\AndroidManifest.xml:5:5-7:41
 MERGED from [io.grpc:grpc-android:1.52.1] C:\Users\walra\.gradle\caches\transforms-3\c51c16ee87f0ab9c089e05706790adec\transformed\jetified-grpc-android-1.52.1\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.annotation:annotation-experimental:1.4.0] C:\Users\walra\.gradle\caches\transforms-3\b56dc60fc454155cd9df4646665706db\transformed\jetified-annotation-experimental-1.4.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.4.0] C:\Users\walra\.gradle\caches\transforms-3\b56dc60fc454155cd9df4646665706db\transformed\jetified-annotation-experimental-1.4.0\AndroidManifest.xml:5:5-44
 MERGED from [com.google.firebase:protolite-well-known-types:18.0.0] C:\Users\walra\.gradle\caches\transforms-3\4f5edabe3f7d50980403151c36f05221\transformed\jetified-protolite-well-known-types-18.0.0\AndroidManifest.xml:7:5-9:41
 MERGED from [com.google.firebase:protolite-well-known-types:18.0.0] C:\Users\walra\.gradle\caches\transforms-3\4f5edabe3f7d50980403151c36f05221\transformed\jetified-protolite-well-known-types-18.0.0\AndroidManifest.xml:7:5-9:41
 INJECTED from D:\development\FlutterDEV\PROJECTSS\find_my_bus\android\app\src\debug\AndroidManifest.xml
@@ -358,11 +369,11 @@ MERGED from [com.google.android.recaptcha:recaptcha:18.1.2] C:\Users\walra\.grad
 	android:name
 		ADDED from D:\development\FlutterDEV\PROJECTSS\find_my_bus\android\app\src\debug\AndroidManifest.xml:6:22-64
 service#com.google.firebase.components.ComponentDiscoveryService
-ADDED from [:firebase_auth] D:\development\FlutterDEV\PROJECTSS\find_my_bus\build\firebase_auth\intermediates\merged_manifest\debug\AndroidManifest.xml:10:9-14:19
+ADDED from [:cloud_firestore] D:\development\FlutterDEV\PROJECTSS\find_my_bus\build\cloud_firestore\intermediates\merged_manifest\debug\AndroidManifest.xml:10:9-14:19
+MERGED from [:firebase_auth] D:\development\FlutterDEV\PROJECTSS\find_my_bus\build\firebase_auth\intermediates\merged_manifest\debug\AndroidManifest.xml:10:9-14:19
+MERGED from [:firebase_auth] D:\development\FlutterDEV\PROJECTSS\find_my_bus\build\firebase_auth\intermediates\merged_manifest\debug\AndroidManifest.xml:10:9-14:19
 MERGED from [:firebase_storage] D:\development\FlutterDEV\PROJECTSS\find_my_bus\build\firebase_storage\intermediates\merged_manifest\debug\AndroidManifest.xml:10:9-14:19
 MERGED from [:firebase_storage] D:\development\FlutterDEV\PROJECTSS\find_my_bus\build\firebase_storage\intermediates\merged_manifest\debug\AndroidManifest.xml:10:9-14:19
-MERGED from [:cloud_firestore] D:\development\FlutterDEV\PROJECTSS\find_my_bus\build\cloud_firestore\intermediates\merged_manifest\debug\AndroidManifest.xml:10:9-14:19
-MERGED from [:cloud_firestore] D:\development\FlutterDEV\PROJECTSS\find_my_bus\build\cloud_firestore\intermediates\merged_manifest\debug\AndroidManifest.xml:10:9-14:19
 MERGED from [:firebase_core] D:\development\FlutterDEV\PROJECTSS\find_my_bus\build\firebase_core\intermediates\merged_manifest\debug\AndroidManifest.xml:10:9-14:19
 MERGED from [:firebase_core] D:\development\FlutterDEV\PROJECTSS\find_my_bus\build\firebase_core\intermediates\merged_manifest\debug\AndroidManifest.xml:10:9-14:19
 MERGED from [com.google.firebase:firebase-auth:22.3.0] C:\Users\walra\.gradle\caches\transforms-3\d918713f5fcbb1aa906d7ef37a5db745\transformed\jetified-firebase-auth-22.3.0\AndroidManifest.xml:66:9-72:19
@@ -384,7 +395,13 @@ MERGED from [com.google.firebase:firebase-common:20.4.2] C:\Users\walra\.gradle\
 	android:directBootAware
 		ADDED from [com.google.firebase:firebase-common:20.4.2] C:\Users\walra\.gradle\caches\transforms-3\e734e0c760a8cc47c828f97455ddae1c\transformed\jetified-firebase-common-20.4.2\AndroidManifest.xml:32:13-43
 	android:name
-		ADDED from [:firebase_auth] D:\development\FlutterDEV\PROJECTSS\find_my_bus\build\firebase_auth\intermediates\merged_manifest\debug\AndroidManifest.xml:10:18-89
+		ADDED from [:cloud_firestore] D:\development\FlutterDEV\PROJECTSS\find_my_bus\build\cloud_firestore\intermediates\merged_manifest\debug\AndroidManifest.xml:10:18-89
+meta-data#com.google.firebase.components:io.flutter.plugins.firebase.firestore.FlutterFirebaseFirestoreRegistrar
+ADDED from [:cloud_firestore] D:\development\FlutterDEV\PROJECTSS\find_my_bus\build\cloud_firestore\intermediates\merged_manifest\debug\AndroidManifest.xml:11:13-13:85
+	android:value
+		ADDED from [:cloud_firestore] D:\development\FlutterDEV\PROJECTSS\find_my_bus\build\cloud_firestore\intermediates\merged_manifest\debug\AndroidManifest.xml:13:17-82
+	android:name
+		ADDED from [:cloud_firestore] D:\development\FlutterDEV\PROJECTSS\find_my_bus\build\cloud_firestore\intermediates\merged_manifest\debug\AndroidManifest.xml:12:17-134
 meta-data#com.google.firebase.components:io.flutter.plugins.firebase.auth.FlutterFirebaseAuthRegistrar
 ADDED from [:firebase_auth] D:\development\FlutterDEV\PROJECTSS\find_my_bus\build\firebase_auth\intermediates\merged_manifest\debug\AndroidManifest.xml:11:13-13:85
 	android:value
@@ -397,12 +414,6 @@ ADDED from [:firebase_storage] D:\development\FlutterDEV\PROJECTSS\find_my_bus\b
 		ADDED from [:firebase_storage] D:\development\FlutterDEV\PROJECTSS\find_my_bus\build\firebase_storage\intermediates\merged_manifest\debug\AndroidManifest.xml:13:17-82
 	android:name
 		ADDED from [:firebase_storage] D:\development\FlutterDEV\PROJECTSS\find_my_bus\build\firebase_storage\intermediates\merged_manifest\debug\AndroidManifest.xml:12:17-126
-meta-data#com.google.firebase.components:io.flutter.plugins.firebase.firestore.FlutterFirebaseFirestoreRegistrar
-ADDED from [:cloud_firestore] D:\development\FlutterDEV\PROJECTSS\find_my_bus\build\cloud_firestore\intermediates\merged_manifest\debug\AndroidManifest.xml:11:13-13:85
-	android:value
-		ADDED from [:cloud_firestore] D:\development\FlutterDEV\PROJECTSS\find_my_bus\build\cloud_firestore\intermediates\merged_manifest\debug\AndroidManifest.xml:13:17-82
-	android:name
-		ADDED from [:cloud_firestore] D:\development\FlutterDEV\PROJECTSS\find_my_bus\build\cloud_firestore\intermediates\merged_manifest\debug\AndroidManifest.xml:12:17-134
 meta-data#com.google.firebase.components:io.flutter.plugins.firebase.core.FlutterFirebaseCoreRegistrar
 ADDED from [:firebase_core] D:\development\FlutterDEV\PROJECTSS\find_my_bus\build\firebase_core\intermediates\merged_manifest\debug\AndroidManifest.xml:11:13-13:85
 	android:value
@@ -410,21 +421,43 @@ ADDED from [:firebase_core] D:\development\FlutterDEV\PROJECTSS\find_my_bus\buil
 	android:name
 		ADDED from [:firebase_core] D:\development\FlutterDEV\PROJECTSS\find_my_bus\build\firebase_core\intermediates\merged_manifest\debug\AndroidManifest.xml:12:17-124
 provider#io.flutter.plugins.imagepicker.ImagePickerFileProvider
-ADDED from [:image_picker_android] D:\development\FlutterDEV\PROJECTSS\find_my_bus\build\image_picker_android\intermediates\merged_manifest\debug\AndroidManifest.xml:10:9-18:20
+ADDED from [:image_picker_android] D:\development\FlutterDEV\PROJECTSS\find_my_bus\build\image_picker_android\intermediates\merged_manifest\debug\AndroidManifest.xml:11:9-19:20
 	android:grantUriPermissions
-		ADDED from [:image_picker_android] D:\development\FlutterDEV\PROJECTSS\find_my_bus\build\image_picker_android\intermediates\merged_manifest\debug\AndroidManifest.xml:14:13-47
+		ADDED from [:image_picker_android] D:\development\FlutterDEV\PROJECTSS\find_my_bus\build\image_picker_android\intermediates\merged_manifest\debug\AndroidManifest.xml:15:13-47
 	android:authorities
-		ADDED from [:image_picker_android] D:\development\FlutterDEV\PROJECTSS\find_my_bus\build\image_picker_android\intermediates\merged_manifest\debug\AndroidManifest.xml:12:13-74
+		ADDED from [:image_picker_android] D:\development\FlutterDEV\PROJECTSS\find_my_bus\build\image_picker_android\intermediates\merged_manifest\debug\AndroidManifest.xml:13:13-74
 	android:exported
-		ADDED from [:image_picker_android] D:\development\FlutterDEV\PROJECTSS\find_my_bus\build\image_picker_android\intermediates\merged_manifest\debug\AndroidManifest.xml:13:13-37
+		ADDED from [:image_picker_android] D:\development\FlutterDEV\PROJECTSS\find_my_bus\build\image_picker_android\intermediates\merged_manifest\debug\AndroidManifest.xml:14:13-37
 	android:name
-		ADDED from [:image_picker_android] D:\development\FlutterDEV\PROJECTSS\find_my_bus\build\image_picker_android\intermediates\merged_manifest\debug\AndroidManifest.xml:11:13-82
+		ADDED from [:image_picker_android] D:\development\FlutterDEV\PROJECTSS\find_my_bus\build\image_picker_android\intermediates\merged_manifest\debug\AndroidManifest.xml:12:13-82
 meta-data#android.support.FILE_PROVIDER_PATHS
-ADDED from [:image_picker_android] D:\development\FlutterDEV\PROJECTSS\find_my_bus\build\image_picker_android\intermediates\merged_manifest\debug\AndroidManifest.xml:15:13-17:75
+ADDED from [:image_picker_android] D:\development\FlutterDEV\PROJECTSS\find_my_bus\build\image_picker_android\intermediates\merged_manifest\debug\AndroidManifest.xml:16:13-18:75
 	android:resource
-		ADDED from [:image_picker_android] D:\development\FlutterDEV\PROJECTSS\find_my_bus\build\image_picker_android\intermediates\merged_manifest\debug\AndroidManifest.xml:17:17-72
+		ADDED from [:image_picker_android] D:\development\FlutterDEV\PROJECTSS\find_my_bus\build\image_picker_android\intermediates\merged_manifest\debug\AndroidManifest.xml:18:17-72
 	android:name
-		ADDED from [:image_picker_android] D:\development\FlutterDEV\PROJECTSS\find_my_bus\build\image_picker_android\intermediates\merged_manifest\debug\AndroidManifest.xml:16:17-67
+		ADDED from [:image_picker_android] D:\development\FlutterDEV\PROJECTSS\find_my_bus\build\image_picker_android\intermediates\merged_manifest\debug\AndroidManifest.xml:17:17-67
+service#com.google.android.gms.metadata.ModuleDependencies
+ADDED from [:image_picker_android] D:\development\FlutterDEV\PROJECTSS\find_my_bus\build\image_picker_android\intermediates\merged_manifest\debug\AndroidManifest.xml:21:9-33:19
+	android:enabled
+		ADDED from [:image_picker_android] D:\development\FlutterDEV\PROJECTSS\find_my_bus\build\image_picker_android\intermediates\merged_manifest\debug\AndroidManifest.xml:23:13-36
+	android:exported
+		ADDED from [:image_picker_android] D:\development\FlutterDEV\PROJECTSS\find_my_bus\build\image_picker_android\intermediates\merged_manifest\debug\AndroidManifest.xml:24:13-37
+	tools:ignore
+		ADDED from [:image_picker_android] D:\development\FlutterDEV\PROJECTSS\find_my_bus\build\image_picker_android\intermediates\merged_manifest\debug\AndroidManifest.xml:25:13-40
+	android:name
+		ADDED from [:image_picker_android] D:\development\FlutterDEV\PROJECTSS\find_my_bus\build\image_picker_android\intermediates\merged_manifest\debug\AndroidManifest.xml:22:13-78
+intent-filter#action:name:com.google.android.gms.metadata.MODULE_DEPENDENCIES
+ADDED from [:image_picker_android] D:\development\FlutterDEV\PROJECTSS\find_my_bus\build\image_picker_android\intermediates\merged_manifest\debug\AndroidManifest.xml:26:13-28:29
+action#com.google.android.gms.metadata.MODULE_DEPENDENCIES
+ADDED from [:image_picker_android] D:\development\FlutterDEV\PROJECTSS\find_my_bus\build\image_picker_android\intermediates\merged_manifest\debug\AndroidManifest.xml:27:17-94
+	android:name
+		ADDED from [:image_picker_android] D:\development\FlutterDEV\PROJECTSS\find_my_bus\build\image_picker_android\intermediates\merged_manifest\debug\AndroidManifest.xml:27:25-91
+meta-data#photopicker_activity:0:required
+ADDED from [:image_picker_android] D:\development\FlutterDEV\PROJECTSS\find_my_bus\build\image_picker_android\intermediates\merged_manifest\debug\AndroidManifest.xml:30:13-32:36
+	android:value
+		ADDED from [:image_picker_android] D:\development\FlutterDEV\PROJECTSS\find_my_bus\build\image_picker_android\intermediates\merged_manifest\debug\AndroidManifest.xml:32:17-33
+	android:name
+		ADDED from [:image_picker_android] D:\development\FlutterDEV\PROJECTSS\find_my_bus\build\image_picker_android\intermediates\merged_manifest\debug\AndroidManifest.xml:31:17-63
 uses-permission#android.permission.ACCESS_COARSE_LOCATION
 ADDED from [:location] D:\development\FlutterDEV\PROJECTSS\find_my_bus\build\location\intermediates\merged_manifest\debug\AndroidManifest.xml:9:5-81
 	android:name
@@ -589,12 +622,20 @@ ADDED from [com.google.android.gms:play-services-maps:18.2.0] C:\Users\walra\.gr
 		ADDED from [com.google.android.gms:play-services-maps:18.2.0] C:\Users\walra\.gradle\caches\transforms-3\2a70f55791616800a55bf32f3fb55fdf\transformed\jetified-play-services-maps-18.2.0\AndroidManifest.xml:41:13-37
 	android:name
 		ADDED from [com.google.android.gms:play-services-maps:18.2.0] C:\Users\walra\.gradle\caches\transforms-3\2a70f55791616800a55bf32f3fb55fdf\transformed\jetified-play-services-maps-18.2.0\AndroidManifest.xml:40:13-50
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:18.1.0] C:\Users\walra\.gradle\caches\transforms-3\5e84e765f65e9a2090221d2ab12cfa4f\transformed\jetified-play-services-base-18.1.0\AndroidManifest.xml:20:9-22:45
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:18.1.0] C:\Users\walra\.gradle\caches\transforms-3\5e84e765f65e9a2090221d2ab12cfa4f\transformed\jetified-play-services-base-18.1.0\AndroidManifest.xml:22:19-43
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:18.1.0] C:\Users\walra\.gradle\caches\transforms-3\5e84e765f65e9a2090221d2ab12cfa4f\transformed\jetified-play-services-base-18.1.0\AndroidManifest.xml:21:19-78
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:18.1.0] C:\Users\walra\.gradle\caches\transforms-3\5e84e765f65e9a2090221d2ab12cfa4f\transformed\jetified-play-services-base-18.1.0\AndroidManifest.xml:20:19-85
 provider#androidx.startup.InitializationProvider
 ADDED from [androidx.emoji2:emoji2:1.0.0] C:\Users\walra\.gradle\caches\transforms-3\9f5664d323734f6134689a016bcc4ba7\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:26:9-34:20
-MERGED from [androidx.lifecycle:lifecycle-process:2.6.1] C:\Users\walra\.gradle\caches\transforms-3\64c5e11941de7bda028907ff4550aef3\transformed\jetified-lifecycle-process-2.6.1\AndroidManifest.xml:24:9-32:20
-MERGED from [androidx.lifecycle:lifecycle-process:2.6.1] C:\Users\walra\.gradle\caches\transforms-3\64c5e11941de7bda028907ff4550aef3\transformed\jetified-lifecycle-process-2.6.1\AndroidManifest.xml:24:9-32:20
-MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\walra\.gradle\caches\transforms-3\f006bed86d6eb723b8569e6a486799df\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:24:9-32:20
-MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\walra\.gradle\caches\transforms-3\f006bed86d6eb723b8569e6a486799df\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.7.0] C:\Users\walra\.gradle\caches\transforms-3\7f944bce42bd2a7c0156fae63b55270a\transformed\jetified-lifecycle-process-2.7.0\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.7.0] C:\Users\walra\.gradle\caches\transforms-3\7f944bce42bd2a7c0156fae63b55270a\transformed\jetified-lifecycle-process-2.7.0\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\walra\.gradle\caches\transforms-3\7d34134397f0c1bc444b67eea0e66a67\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\walra\.gradle\caches\transforms-3\7d34134397f0c1bc444b67eea0e66a67\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:24:9-32:20
 MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\walra\.gradle\caches\transforms-3\93bc8c9c682a004af26f59e142f349cf\transformed\jetified-startup-runtime-1.1.1\AndroidManifest.xml:26:9-30:34
 MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\walra\.gradle\caches\transforms-3\93bc8c9c682a004af26f59e142f349cf\transformed\jetified-startup-runtime-1.1.1\AndroidManifest.xml:26:9-30:34
 	tools:node
@@ -612,99 +653,93 @@ ADDED from [androidx.emoji2:emoji2:1.0.0] C:\Users\walra\.gradle\caches\transfor
 	android:name
 		ADDED from [androidx.emoji2:emoji2:1.0.0] C:\Users\walra\.gradle\caches\transforms-3\9f5664d323734f6134689a016bcc4ba7\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:32:17-75
 meta-data#androidx.lifecycle.ProcessLifecycleInitializer
-ADDED from [androidx.lifecycle:lifecycle-process:2.6.1] C:\Users\walra\.gradle\caches\transforms-3\64c5e11941de7bda028907ff4550aef3\transformed\jetified-lifecycle-process-2.6.1\AndroidManifest.xml:29:13-31:52
+ADDED from [androidx.lifecycle:lifecycle-process:2.7.0] C:\Users\walra\.gradle\caches\transforms-3\7f944bce42bd2a7c0156fae63b55270a\transformed\jetified-lifecycle-process-2.7.0\AndroidManifest.xml:29:13-31:52
 	android:value
-		ADDED from [androidx.lifecycle:lifecycle-process:2.6.1] C:\Users\walra\.gradle\caches\transforms-3\64c5e11941de7bda028907ff4550aef3\transformed\jetified-lifecycle-process-2.6.1\AndroidManifest.xml:31:17-49
+		ADDED from [androidx.lifecycle:lifecycle-process:2.7.0] C:\Users\walra\.gradle\caches\transforms-3\7f944bce42bd2a7c0156fae63b55270a\transformed\jetified-lifecycle-process-2.7.0\AndroidManifest.xml:31:17-49
 	android:name
-		ADDED from [androidx.lifecycle:lifecycle-process:2.6.1] C:\Users\walra\.gradle\caches\transforms-3\64c5e11941de7bda028907ff4550aef3\transformed\jetified-lifecycle-process-2.6.1\AndroidManifest.xml:30:17-78
+		ADDED from [androidx.lifecycle:lifecycle-process:2.7.0] C:\Users\walra\.gradle\caches\transforms-3\7f944bce42bd2a7c0156fae63b55270a\transformed\jetified-lifecycle-process-2.7.0\AndroidManifest.xml:30:17-78
 uses-library#androidx.window.extensions
-ADDED from [androidx.window:window:1.0.0-beta04] C:\Users\walra\.gradle\caches\transforms-3\332352be57ba757b1a099a9b09f49cf5\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:25:9-27:40
+ADDED from [androidx.window:window:1.2.0] C:\Users\walra\.gradle\caches\transforms-3\d5de499c35475af97141c195624e3e69\transformed\jetified-window-1.2.0\AndroidManifest.xml:23:9-25:40
 	android:required
-		ADDED from [androidx.window:window:1.0.0-beta04] C:\Users\walra\.gradle\caches\transforms-3\332352be57ba757b1a099a9b09f49cf5\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:27:13-37
+		ADDED from [androidx.window:window:1.2.0] C:\Users\walra\.gradle\caches\transforms-3\d5de499c35475af97141c195624e3e69\transformed\jetified-window-1.2.0\AndroidManifest.xml:25:13-37
 	android:name
-		ADDED from [androidx.window:window:1.0.0-beta04] C:\Users\walra\.gradle\caches\transforms-3\332352be57ba757b1a099a9b09f49cf5\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:26:13-54
+		ADDED from [androidx.window:window:1.2.0] C:\Users\walra\.gradle\caches\transforms-3\d5de499c35475af97141c195624e3e69\transformed\jetified-window-1.2.0\AndroidManifest.xml:24:13-54
 uses-library#androidx.window.sidecar
-ADDED from [androidx.window:window:1.0.0-beta04] C:\Users\walra\.gradle\caches\transforms-3\332352be57ba757b1a099a9b09f49cf5\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:28:9-30:40
+ADDED from [androidx.window:window:1.2.0] C:\Users\walra\.gradle\caches\transforms-3\d5de499c35475af97141c195624e3e69\transformed\jetified-window-1.2.0\AndroidManifest.xml:26:9-28:40
 	android:required
-		ADDED from [androidx.window:window:1.0.0-beta04] C:\Users\walra\.gradle\caches\transforms-3\332352be57ba757b1a099a9b09f49cf5\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:30:13-37
+		ADDED from [androidx.window:window:1.2.0] C:\Users\walra\.gradle\caches\transforms-3\d5de499c35475af97141c195624e3e69\transformed\jetified-window-1.2.0\AndroidManifest.xml:28:13-37
 	android:name
-		ADDED from [androidx.window:window:1.0.0-beta04] C:\Users\walra\.gradle\caches\transforms-3\332352be57ba757b1a099a9b09f49cf5\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:29:13-51
-activity#com.google.android.gms.common.api.GoogleApiActivity
-ADDED from [com.google.android.gms:play-services-base:18.1.0] C:\Users\walra\.gradle\caches\transforms-3\5e84e765f65e9a2090221d2ab12cfa4f\transformed\jetified-play-services-base-18.1.0\AndroidManifest.xml:20:9-22:45
-	android:exported
-		ADDED from [com.google.android.gms:play-services-base:18.1.0] C:\Users\walra\.gradle\caches\transforms-3\5e84e765f65e9a2090221d2ab12cfa4f\transformed\jetified-play-services-base-18.1.0\AndroidManifest.xml:22:19-43
-	android:theme
-		ADDED from [com.google.android.gms:play-services-base:18.1.0] C:\Users\walra\.gradle\caches\transforms-3\5e84e765f65e9a2090221d2ab12cfa4f\transformed\jetified-play-services-base-18.1.0\AndroidManifest.xml:21:19-78
-	android:name
-		ADDED from [com.google.android.gms:play-services-base:18.1.0] C:\Users\walra\.gradle\caches\transforms-3\5e84e765f65e9a2090221d2ab12cfa4f\transformed\jetified-play-services-base-18.1.0\AndroidManifest.xml:20:19-85
+		ADDED from [androidx.window:window:1.2.0] C:\Users\walra\.gradle\caches\transforms-3\d5de499c35475af97141c195624e3e69\transformed\jetified-window-1.2.0\AndroidManifest.xml:27:13-51
 meta-data#com.google.android.gms.version
 ADDED from [com.google.android.gms:play-services-basement:18.1.0] C:\Users\walra\.gradle\caches\transforms-3\78aba7bc751d1129f94d2c6b8a401c08\transformed\jetified-play-services-basement-18.1.0\AndroidManifest.xml:21:9-23:69
+MERGED from [com.google.maps.android:android-maps-utils:3.6.0] C:\Users\walra\.gradle\caches\transforms-3\359246df71ecd03dffe06633d0d76d2b\transformed\jetified-android-maps-utils-3.6.0\AndroidManifest.xml:8:9-10:69
+MERGED from [com.google.maps.android:android-maps-utils:3.6.0] C:\Users\walra\.gradle\caches\transforms-3\359246df71ecd03dffe06633d0d76d2b\transformed\jetified-android-maps-utils-3.6.0\AndroidManifest.xml:8:9-10:69
 	android:value
 		ADDED from [com.google.android.gms:play-services-basement:18.1.0] C:\Users\walra\.gradle\caches\transforms-3\78aba7bc751d1129f94d2c6b8a401c08\transformed\jetified-play-services-basement-18.1.0\AndroidManifest.xml:23:13-66
 	android:name
 		ADDED from [com.google.android.gms:play-services-basement:18.1.0] C:\Users\walra\.gradle\caches\transforms-3\78aba7bc751d1129f94d2c6b8a401c08\transformed\jetified-play-services-basement-18.1.0\AndroidManifest.xml:22:13-58
 permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
-ADDED from [androidx.core:core:1.10.1] C:\Users\walra\.gradle\caches\transforms-3\e90d407703989166ff4bf77dd64d09ed\transformed\core-1.10.1\AndroidManifest.xml:22:5-24:47
+ADDED from [androidx.core:core:1.13.1] C:\Users\walra\.gradle\caches\transforms-3\3d46468ffd38af5d0ba60d5fe5308523\transformed\core-1.13.1\AndroidManifest.xml:22:5-24:47
 	android:protectionLevel
-		ADDED from [androidx.core:core:1.10.1] C:\Users\walra\.gradle\caches\transforms-3\e90d407703989166ff4bf77dd64d09ed\transformed\core-1.10.1\AndroidManifest.xml:24:9-44
+		ADDED from [androidx.core:core:1.13.1] C:\Users\walra\.gradle\caches\transforms-3\3d46468ffd38af5d0ba60d5fe5308523\transformed\core-1.13.1\AndroidManifest.xml:24:9-44
 	android:name
-		ADDED from [androidx.core:core:1.10.1] C:\Users\walra\.gradle\caches\transforms-3\e90d407703989166ff4bf77dd64d09ed\transformed\core-1.10.1\AndroidManifest.xml:23:9-81
+		ADDED from [androidx.core:core:1.13.1] C:\Users\walra\.gradle\caches\transforms-3\3d46468ffd38af5d0ba60d5fe5308523\transformed\core-1.13.1\AndroidManifest.xml:23:9-81
 permission#com.justhackit.find_my_bus.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
-ADDED from [androidx.core:core:1.10.1] C:\Users\walra\.gradle\caches\transforms-3\e90d407703989166ff4bf77dd64d09ed\transformed\core-1.10.1\AndroidManifest.xml:22:5-24:47
+ADDED from [androidx.core:core:1.13.1] C:\Users\walra\.gradle\caches\transforms-3\3d46468ffd38af5d0ba60d5fe5308523\transformed\core-1.13.1\AndroidManifest.xml:22:5-24:47
 	android:protectionLevel
-		ADDED from [androidx.core:core:1.10.1] C:\Users\walra\.gradle\caches\transforms-3\e90d407703989166ff4bf77dd64d09ed\transformed\core-1.10.1\AndroidManifest.xml:24:9-44
+		ADDED from [androidx.core:core:1.13.1] C:\Users\walra\.gradle\caches\transforms-3\3d46468ffd38af5d0ba60d5fe5308523\transformed\core-1.13.1\AndroidManifest.xml:24:9-44
 	android:name
-		ADDED from [androidx.core:core:1.10.1] C:\Users\walra\.gradle\caches\transforms-3\e90d407703989166ff4bf77dd64d09ed\transformed\core-1.10.1\AndroidManifest.xml:23:9-81
+		ADDED from [androidx.core:core:1.13.1] C:\Users\walra\.gradle\caches\transforms-3\3d46468ffd38af5d0ba60d5fe5308523\transformed\core-1.13.1\AndroidManifest.xml:23:9-81
 uses-permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
-ADDED from [androidx.core:core:1.10.1] C:\Users\walra\.gradle\caches\transforms-3\e90d407703989166ff4bf77dd64d09ed\transformed\core-1.10.1\AndroidManifest.xml:26:5-97
+ADDED from [androidx.core:core:1.13.1] C:\Users\walra\.gradle\caches\transforms-3\3d46468ffd38af5d0ba60d5fe5308523\transformed\core-1.13.1\AndroidManifest.xml:26:5-97
 	android:name
-		ADDED from [androidx.core:core:1.10.1] C:\Users\walra\.gradle\caches\transforms-3\e90d407703989166ff4bf77dd64d09ed\transformed\core-1.10.1\AndroidManifest.xml:26:22-94
+		ADDED from [androidx.core:core:1.13.1] C:\Users\walra\.gradle\caches\transforms-3\3d46468ffd38af5d0ba60d5fe5308523\transformed\core-1.13.1\AndroidManifest.xml:26:22-94
 uses-permission#com.justhackit.find_my_bus.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
-ADDED from [androidx.core:core:1.10.1] C:\Users\walra\.gradle\caches\transforms-3\e90d407703989166ff4bf77dd64d09ed\transformed\core-1.10.1\AndroidManifest.xml:26:5-97
+ADDED from [androidx.core:core:1.13.1] C:\Users\walra\.gradle\caches\transforms-3\3d46468ffd38af5d0ba60d5fe5308523\transformed\core-1.13.1\AndroidManifest.xml:26:5-97
 	android:name
-		ADDED from [androidx.core:core:1.10.1] C:\Users\walra\.gradle\caches\transforms-3\e90d407703989166ff4bf77dd64d09ed\transformed\core-1.10.1\AndroidManifest.xml:26:22-94
+		ADDED from [androidx.core:core:1.13.1] C:\Users\walra\.gradle\caches\transforms-3\3d46468ffd38af5d0ba60d5fe5308523\transformed\core-1.13.1\AndroidManifest.xml:26:22-94
 meta-data#androidx.profileinstaller.ProfileInstallerInitializer
-ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\walra\.gradle\caches\transforms-3\f006bed86d6eb723b8569e6a486799df\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:29:13-31:52
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\walra\.gradle\caches\transforms-3\7d34134397f0c1bc444b67eea0e66a67\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:29:13-31:52
 	android:value
-		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\walra\.gradle\caches\transforms-3\f006bed86d6eb723b8569e6a486799df\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:31:17-49
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\walra\.gradle\caches\transforms-3\7d34134397f0c1bc444b67eea0e66a67\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:31:17-49
 	android:name
-		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\walra\.gradle\caches\transforms-3\f006bed86d6eb723b8569e6a486799df\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:30:17-85
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\walra\.gradle\caches\transforms-3\7d34134397f0c1bc444b67eea0e66a67\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:30:17-85
 receiver#androidx.profileinstaller.ProfileInstallReceiver
-ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\walra\.gradle\caches\transforms-3\f006bed86d6eb723b8569e6a486799df\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:34:9-52:20
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\walra\.gradle\caches\transforms-3\7d34134397f0c1bc444b67eea0e66a67\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:34:9-52:20
 	android:enabled
-		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\walra\.gradle\caches\transforms-3\f006bed86d6eb723b8569e6a486799df\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:37:13-35
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\walra\.gradle\caches\transforms-3\7d34134397f0c1bc444b67eea0e66a67\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:37:13-35
 	android:exported
-		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\walra\.gradle\caches\transforms-3\f006bed86d6eb723b8569e6a486799df\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:38:13-36
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\walra\.gradle\caches\transforms-3\7d34134397f0c1bc444b67eea0e66a67\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:38:13-36
 	android:permission
-		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\walra\.gradle\caches\transforms-3\f006bed86d6eb723b8569e6a486799df\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:39:13-57
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\walra\.gradle\caches\transforms-3\7d34134397f0c1bc444b67eea0e66a67\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:39:13-57
 	android:directBootAware
-		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\walra\.gradle\caches\transforms-3\f006bed86d6eb723b8569e6a486799df\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:36:13-44
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\walra\.gradle\caches\transforms-3\7d34134397f0c1bc444b67eea0e66a67\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:36:13-44
 	android:name
-		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\walra\.gradle\caches\transforms-3\f006bed86d6eb723b8569e6a486799df\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:35:13-76
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\walra\.gradle\caches\transforms-3\7d34134397f0c1bc444b67eea0e66a67\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:35:13-76
 intent-filter#action:name:androidx.profileinstaller.action.INSTALL_PROFILE
-ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\walra\.gradle\caches\transforms-3\f006bed86d6eb723b8569e6a486799df\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:40:13-42:29
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\walra\.gradle\caches\transforms-3\7d34134397f0c1bc444b67eea0e66a67\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:40:13-42:29
 action#androidx.profileinstaller.action.INSTALL_PROFILE
-ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\walra\.gradle\caches\transforms-3\f006bed86d6eb723b8569e6a486799df\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:41:17-91
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\walra\.gradle\caches\transforms-3\7d34134397f0c1bc444b67eea0e66a67\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:41:17-91
 	android:name
-		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\walra\.gradle\caches\transforms-3\f006bed86d6eb723b8569e6a486799df\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:41:25-88
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\walra\.gradle\caches\transforms-3\7d34134397f0c1bc444b67eea0e66a67\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:41:25-88
 intent-filter#action:name:androidx.profileinstaller.action.SKIP_FILE
-ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\walra\.gradle\caches\transforms-3\f006bed86d6eb723b8569e6a486799df\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:43:13-45:29
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\walra\.gradle\caches\transforms-3\7d34134397f0c1bc444b67eea0e66a67\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:43:13-45:29
 action#androidx.profileinstaller.action.SKIP_FILE
-ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\walra\.gradle\caches\transforms-3\f006bed86d6eb723b8569e6a486799df\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:44:17-85
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\walra\.gradle\caches\transforms-3\7d34134397f0c1bc444b67eea0e66a67\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:44:17-85
 	android:name
-		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\walra\.gradle\caches\transforms-3\f006bed86d6eb723b8569e6a486799df\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:44:25-82
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\walra\.gradle\caches\transforms-3\7d34134397f0c1bc444b67eea0e66a67\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:44:25-82
 intent-filter#action:name:androidx.profileinstaller.action.SAVE_PROFILE
-ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\walra\.gradle\caches\transforms-3\f006bed86d6eb723b8569e6a486799df\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:46:13-48:29
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\walra\.gradle\caches\transforms-3\7d34134397f0c1bc444b67eea0e66a67\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:46:13-48:29
 action#androidx.profileinstaller.action.SAVE_PROFILE
-ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\walra\.gradle\caches\transforms-3\f006bed86d6eb723b8569e6a486799df\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:47:17-88
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\walra\.gradle\caches\transforms-3\7d34134397f0c1bc444b67eea0e66a67\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:47:17-88
 	android:name
-		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\walra\.gradle\caches\transforms-3\f006bed86d6eb723b8569e6a486799df\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:47:25-85
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\walra\.gradle\caches\transforms-3\7d34134397f0c1bc444b67eea0e66a67\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:47:25-85
 intent-filter#action:name:androidx.profileinstaller.action.BENCHMARK_OPERATION
-ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\walra\.gradle\caches\transforms-3\f006bed86d6eb723b8569e6a486799df\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:49:13-51:29
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\walra\.gradle\caches\transforms-3\7d34134397f0c1bc444b67eea0e66a67\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:49:13-51:29
 action#androidx.profileinstaller.action.BENCHMARK_OPERATION
-ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\walra\.gradle\caches\transforms-3\f006bed86d6eb723b8569e6a486799df\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:50:17-95
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\walra\.gradle\caches\transforms-3\7d34134397f0c1bc444b67eea0e66a67\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:50:17-95
 	android:name
-		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\walra\.gradle\caches\transforms-3\f006bed86d6eb723b8569e6a486799df\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:50:25-92
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\walra\.gradle\caches\transforms-3\7d34134397f0c1bc444b67eea0e66a67\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:50:25-92
 uses-permission#android.permission.CAMERA
 ADDED from [com.journeyapps:zxing-android-embedded:4.3.0] C:\Users\walra\.gradle\caches\transforms-3\e1fbc6f01203406e10d4817b32082e08\transformed\jetified-zxing-android-embedded-4.3.0\AndroidManifest.xml:22:5-65
 	android:name

@@ -160,7 +160,7 @@ class _SignupPageConductorState extends State<SignupPageConductor> {
                     decoration: InputDecoration(
                       border: OutlineInputBorder(),
                       labelText: "Name",
-                      hintText: "Raghav",
+                      hintText: "raghav",
                       prefixIcon: Icon(
                         Icons.account_circle,
                       ),
@@ -212,7 +212,7 @@ class _SignupPageConductorState extends State<SignupPageConductor> {
                     decoration: InputDecoration(
                       border: OutlineInputBorder(),
                       labelText: "Email address",
-                      hintText: "MYEMAILFUkYOUDAKJFLASFFJASLFJK@gmail.com",
+                      hintText: "email@gmail.com",
                       prefixIcon: Icon(
                         Icons.email,
                       ),

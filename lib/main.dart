@@ -57,7 +57,7 @@ class _MyAppState extends State<MyApp> {
   Future<dynamic> _getPermission() async {
     bool _serviceEnabled;
     PermissionStatus _permissionGranted;
-
+  
     _serviceEnabled = await location.serviceEnabled();
     if (!_serviceEnabled) {
       _serviceEnabled = await location.requestService();

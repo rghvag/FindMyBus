@@ -295,6 +295,7 @@ class _HomePageConductorState extends State<HomePageConductor> {
       });
       // Map valueMap = json.decode(scanData!.code.toString());
       print("*****************************");
+      print('QR');
       print(scanData.code);
       print("*****************************");
       final split = scanData.code!.split(',');

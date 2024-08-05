@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "com.justhackit.find_my_bus.app-mergeDebugResources-33:/values-el/values-el.xml",
+            "outputFile": "com.justhackit.find_my_bus.app-mergeDebugResources-37:/values-el/values-el.xml",
             "map": [
                 {
                     "source": "C:\\Users\\walra\\.gradle\\caches\\transforms-3\\c829784a2102bc2d6e73199ca0daea04\\transformed\\appcompat-1.4.2\\res\\values-el\\values-el.xml",
@@ -21,6 +21,23 @@
                     }
                 },
                 {
+                    "source": "C:\\Users\\walra\\.gradle\\caches\\transforms-3\\3d46468ffd38af5d0ba60d5fe5308523\\transformed\\core-1.13.1\\res\\values-el\\values-el.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,153,256,356,459,567,673,790",
+                        "endColumns": "97,102,99,102,107,105,116,100",
+                        "endOffsets": "148,251,351,454,562,668,785,886"
+                    },
+                    "to": {
+                        "startLines": "29,30,31,32,33,34,35,59",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "2886,2984,3087,3187,3290,3398,3504,6525",
+                        "endColumns": "97,102,99,102,107,105,116,100",
+                        "endOffsets": "2979,3082,3182,3285,3393,3499,3616,6621"
+                    }
+                },
+                {
                     "source": "C:\\Users\\walra\\.gradle\\caches\\transforms-3\\5e84e765f65e9a2090221d2ab12cfa4f\\transformed\\jetified-play-services-base-18.1.0\\res\\values-el\\values.xml",
                     "from": {
                         "startLines": "4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20",
@@ -35,23 +52,6 @@
                         "startOffsets": "3621,3732,3918,4050,4161,4342,4467,4585,4854,5043,5151,5321,5450,5628,5773,5842,5904",
                         "endColumns": "110,185,131,110,180,124,117,104,188,107,169,128,177,144,68,61,82",
                         "endOffsets": "3727,3913,4045,4156,4337,4462,4580,4685,5038,5146,5316,5445,5623,5768,5837,5899,5982"
-                    }
-                },
-                {
-                    "source": "C:\\Users\\walra\\.gradle\\caches\\transforms-3\\e90d407703989166ff4bf77dd64d09ed\\transformed\\core-1.10.1\\res\\values-el\\values-el.xml",
-                    "from": {
-                        "startLines": "2,3,4,5,6,7,8,9",
-                        "startColumns": "4,4,4,4,4,4,4,4",
-                        "startOffsets": "55,153,256,356,459,567,673,790",
-                        "endColumns": "97,102,99,102,107,105,116,100",
-                        "endOffsets": "148,251,351,454,562,668,785,886"
-                    },
-                    "to": {
-                        "startLines": "29,30,31,32,33,34,35,59",
-                        "startColumns": "4,4,4,4,4,4,4,4",
-                        "startOffsets": "2886,2984,3087,3187,3290,3398,3504,6525",
-                        "endColumns": "97,102,99,102,107,105,116,100",
-                        "endOffsets": "2979,3082,3182,3285,3393,3499,3616,6621"
                     }
                 },
                 {

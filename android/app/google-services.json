@@ -1,36 +1,26 @@
 {
   "project_info": {
-    "project_number": "656284482433",
-    "project_id": "find-my-bus-8e5e9",
-    "storage_bucket": "find-my-bus-8e5e9.appspot.com"
+    "project_number": "882912661675",
+    "project_id": "findmybus-9310b",
+    "storage_bucket": "findmybus-9310b.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:656284482433:android:32c2ffde6c4e40185b8680",
+        "mobilesdk_app_id": "1:882912661675:android:8cbb3189992de6dc3ea7ee",
         "android_client_info": {
           "package_name": "com.justhackit.find_my_bus"
         }
       },
-      "oauth_client": [
-        {
-          "client_id": "656284482433-eqouig355fjv3ecqebmql252glo97405.apps.googleusercontent.com",
-          "client_type": 3
-        }
-      ],
+      "oauth_client": [],
       "api_key": [
         {
-          "current_key": "AIzaSyC9bza26pfZ7nSObXjnF7CCifCHUAOpb4c"
+          "current_key": "AIzaSyA3nSzrWU0BAdDQL_37Dz-7BUH7Y8QYXtw"
         }
       ],
       "services": {
         "appinvite_service": {
-          "other_platform_oauth_client": [
-            {
-              "client_id": "656284482433-eqouig355fjv3ecqebmql252glo97405.apps.googleusercontent.com",
-              "client_type": 3
-            }
-          ]
+          "other_platform_oauth_client": []
         }
       }
     }

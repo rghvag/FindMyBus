@@ -1,25 +1,8 @@
 {
     "logs": [
         {
-            "outputFile": "com.justhackit.find_my_bus.app-mergeDebugResources-33:/values-ky/values-ky.xml",
+            "outputFile": "com.justhackit.find_my_bus.app-mergeDebugResources-37:/values-ky/values-ky.xml",
             "map": [
-                {
-                    "source": "C:\\Users\\walra\\.gradle\\caches\\transforms-3\\e90d407703989166ff4bf77dd64d09ed\\transformed\\core-1.10.1\\res\\values-ky\\values-ky.xml",
-                    "from": {
-                        "startLines": "2,3,4,5,6,7,8,9",
-                        "startColumns": "4,4,4,4,4,4,4,4",
-                        "startOffsets": "55,155,257,360,467,571,675,786",
-                        "endColumns": "99,101,102,106,103,103,110,100",
-                        "endOffsets": "150,252,355,462,566,670,781,882"
-                    },
-                    "to": {
-                        "startLines": "29,30,31,32,33,34,35,59",
-                        "startColumns": "4,4,4,4,4,4,4,4",
-                        "startOffsets": "2817,2917,3019,3122,3229,3333,3437,6253",
-                        "endColumns": "99,101,102,106,103,103,110,100",
-                        "endOffsets": "2912,3014,3117,3224,3328,3432,3543,6349"
-                    }
-                },
                 {
                     "source": "C:\\Users\\walra\\.gradle\\caches\\transforms-3\\c829784a2102bc2d6e73199ca0daea04\\transformed\\appcompat-1.4.2\\res\\values-ky\\values-ky.xml",
                     "from": {
@@ -86,6 +69,23 @@
                         "startOffsets": "5752,5851,5956,6065",
                         "endColumns": "98,104,108,105",
                         "endOffsets": "5846,5951,6060,6166"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\walra\\.gradle\\caches\\transforms-3\\3d46468ffd38af5d0ba60d5fe5308523\\transformed\\core-1.13.1\\res\\values-ky\\values-ky.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,155,257,360,467,571,675,786",
+                        "endColumns": "99,101,102,106,103,103,110,100",
+                        "endOffsets": "150,252,355,462,566,670,781,882"
+                    },
+                    "to": {
+                        "startLines": "29,30,31,32,33,34,35,59",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "2817,2917,3019,3122,3229,3333,3437,6253",
+                        "endColumns": "99,101,102,106,103,103,110,100",
+                        "endOffsets": "2912,3014,3117,3224,3328,3432,3543,6349"
                     }
                 }
             ]

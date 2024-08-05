@@ -1,25 +1,8 @@
 {
     "logs": [
         {
-            "outputFile": "com.justhackit.find_my_bus.app-mergeDebugResources-33:/values-te/values-te.xml",
+            "outputFile": "com.justhackit.find_my_bus.app-mergeDebugResources-37:/values-te/values-te.xml",
             "map": [
-                {
-                    "source": "C:\\Users\\walra\\.gradle\\caches\\transforms-3\\e90d407703989166ff4bf77dd64d09ed\\transformed\\core-1.10.1\\res\\values-te\\values-te.xml",
-                    "from": {
-                        "startLines": "2,3,4,5,6,7,8,9",
-                        "startColumns": "4,4,4,4,4,4,4,4",
-                        "startOffsets": "55,157,265,367,468,574,681,805",
-                        "endColumns": "101,107,101,100,105,106,123,100",
-                        "endOffsets": "152,260,362,463,569,676,800,901"
-                    },
-                    "to": {
-                        "startLines": "29,30,31,32,33,34,35,59",
-                        "startColumns": "4,4,4,4,4,4,4,4",
-                        "startOffsets": "2859,2961,3069,3171,3272,3378,3485,6321",
-                        "endColumns": "101,107,101,100,105,106,123,100",
-                        "endOffsets": "2956,3064,3166,3267,3373,3480,3604,6417"
-                    }
-                },
                 {
                     "source": "C:\\Users\\walra\\.gradle\\caches\\transforms-3\\c829784a2102bc2d6e73199ca0daea04\\transformed\\appcompat-1.4.2\\res\\values-te\\values-te.xml",
                     "from": {
@@ -35,6 +18,23 @@
                         "startOffsets": "105,222,334,447,537,642,761,839,915,1006,1099,1194,1288,1388,1481,1576,1671,1762,1853,1942,2056,2160,2259,2374,2479,2594,2756,6238",
                         "endColumns": "116,111,112,89,104,118,77,75,90,92,94,93,99,92,94,94,90,90,88,113,103,98,114,104,114,161,102,82",
                         "endOffsets": "217,329,442,532,637,756,834,910,1001,1094,1189,1283,1383,1476,1571,1666,1757,1848,1937,2051,2155,2254,2369,2474,2589,2751,2854,6316"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\walra\\.gradle\\caches\\transforms-3\\3d46468ffd38af5d0ba60d5fe5308523\\transformed\\core-1.13.1\\res\\values-te\\values-te.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,157,265,367,468,574,681,805",
+                        "endColumns": "101,107,101,100,105,106,123,100",
+                        "endOffsets": "152,260,362,463,569,676,800,901"
+                    },
+                    "to": {
+                        "startLines": "29,30,31,32,33,34,35,59",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "2859,2961,3069,3171,3272,3378,3485,6321",
+                        "endColumns": "101,107,101,100,105,106,123,100",
+                        "endOffsets": "2956,3064,3166,3267,3373,3480,3604,6417"
                     }
                 },
                 {
