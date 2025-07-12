@@ -6,38 +6,26 @@ import 'package:find_my_bus/screens/welcomePage.dart';
 import 'package:find_my_bus/screens/passenger/signupUser.dart';
 import 'package:find_my_bus/screens/passenger/forgotPassword.dart';
 import 'package:firebase_core/firebase_core.dart';
+import 'package:flutter_dotenv/flutter_dotenv.dart';
 import 'package:location/location.dart';
 import 'screens/conductor/loginPageConductor.dart';
 import 'screens/conductor/signupPageConductor.dart';
 
-// void main() async {
-//   WidgetsFlutterBinding.ensureInitialized();
-//   await Firebase.initializeApp(
-//       options: FirebaseOptions(
-//     apiKey: "AIzaSyCATyiQjGcaK_nAeDS-7L6bPFjTN-ZHwZc",
-//     appId: "1:882912661675:web:e3b4869c01053a0f3ea7ee",
-//     messagingSenderId: "882912661675",
-//     projectId: "findmybus-9310b",
-//     storageBucket: "findmybus-9310b.appspot.com",
-//   ));
-//   runApp(const MyApp());
-// }
 void main() async {
+  await dotenv.load();
   WidgetsFlutterBinding.ensureInitialized();
   try {
     await Firebase.initializeApp(
-      options: const FirebaseOptions(
-        apiKey: "AIzaSyCATyiQjGcaK_nAeDS-7L6bPFjTN-ZHwZc",
-        appId: "1:882912661675:web:e3b4869c01053a0f3ea7ee",
-        messagingSenderId: "882912661675",
-        projectId: "findmybus-9310b",
-        storageBucket: "findmybus-9310b.appspot.com",
+      options: FirebaseOptions(
+        apiKey: dotenv.env['apiKey']!,
+        appId: dotenv.env['appId']!,
+        messagingSenderId: dotenv.env['messagingSenderId']!,
+        projectId: dotenv.env['projectId']!,
+        storageBucket: dotenv.env['storageBucket'],
       ),
     );
   } catch (e) {
     if (e is FirebaseException && e.code == 'duplicate-app') {
-      // Firebase has already been initialized, so you can ignore this error.
-      // Optionally, you can handle this case if needed.
       print('Firebase is already initialized.');
     } else {
       rethrow;
@@ -57,7 +45,7 @@ class _MyAppState extends State<MyApp> {
   Future<dynamic> _getPermission() async {
     bool _serviceEnabled;
     PermissionStatus _permissionGranted;
-  
+
     _serviceEnabled = await location.serviceEnabled();
     if (!_serviceEnabled) {
       _serviceEnabled = await location.requestService();

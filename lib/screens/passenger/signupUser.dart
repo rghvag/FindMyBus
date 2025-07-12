@@ -207,7 +207,7 @@ class _SignupPageState extends State<SignupPage> {
                     decoration: InputDecoration(
                       border: OutlineInputBorder(),
                       labelText: "Email address",
-                      hintText: "myemail@gmail.com",
+                      hintText: "myemailabcd@gmail.com",
                       prefixIcon: Icon(
                         Icons.email,
                       ),

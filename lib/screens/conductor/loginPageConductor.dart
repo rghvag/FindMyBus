@@ -1,7 +1,7 @@
 import 'package:find_my_bus/screens/conductor/homePageConductor.dart';
+import 'package:find_my_bus/screens/conductor/signupPageConductor.dart';
 import 'package:flutter/material.dart';
 import 'package:find_my_bus/constant/constants.dart';
-import 'package:find_my_bus/screens/passenger/signupUser.dart';
 import 'package:find_my_bus/screens/passenger/forgotPassword.dart';
 import 'package:firebase_auth/firebase_auth.dart';
 import 'dart:io';
@@ -303,7 +303,7 @@ class _LoginPageConductorState extends State<LoginPageConductor> {
                   ),
                   TextButton(
                     onPressed: () {
-                      Navigator.pushNamed(context, SignupPage.id);
+                      Navigator.pushNamed(context, SignupPageConductor.id);
                     },
                     child: Text(
                       'Sign Up Here!',

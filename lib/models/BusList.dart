@@ -269,7 +269,7 @@ class _BusesState extends State<Buses> {
                                 );
                               }
                             } else {
-                              return Center(
+                              return const Center(
                                 child: CircularProgressIndicator(),
                               );
                             }

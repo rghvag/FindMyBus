@@ -46,6 +46,7 @@ dependencies:
   qr_flutter: ^4.1.0
   flutter_polyline_points: ^2.0.0
   google_maps_flutter_web: ^0.5.4+2
+  flutter_dotenv: ^5.2.1
 dev_dependencies:
   # The "flutter_lints" package below contains a set of recommended lints to
   # encourage good coding practi. The lint set provided by the package is

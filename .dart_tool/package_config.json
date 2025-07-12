@@ -188,6 +188,12 @@
       "languageVersion": "3.3"
     },
     {
+      "name": "flutter_dotenv",
+      "rootUri": "file:///C:/Users/walra/AppData/Local/Pub/Cache/hosted/pub.dev/flutter_dotenv-5.2.1",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
       "name": "flutter_lints",
       "rootUri": "file:///C:/Users/walra/AppData/Local/Pub/Cache/hosted/pub.dev/flutter_lints-3.0.2",
       "packageUri": "lib/",
@@ -602,7 +608,7 @@
       "languageVersion": "2.12"
     }
   ],
-  "generated": "2024-08-04T21:38:54.813278Z",
+  "generated": "2025-07-12T21:38:15.142457Z",
   "generator": "pub",
   "generatorVersion": "3.6.0-114.0.dev",
   "flutterRoot": "file:///C:/Users/walra/flutter",
